@@ -1,14 +1,34 @@
 {
   "ofertas": [
     {
-      "nome": "Conjunto de panelas 10 peças antiaderente com tampa de vidro e utensílios",
-      "preco": "R$ 175,52",
-      "link": "https://s.shopee.com.br/7Aepekg3Fq",
-      "conferido": "03/11 06:40",
+      "nome": "Jogo de lençol 400 fios queen 3 peças com ponto palito (Texfine)",
+      "preco": "R$ 28,90",
+      "link": "https://meli.la/1rq4sK5",
+      "conferido": "03/11 10:05",
       "ano": 2026,
-      "detalhe": "no Pix (ou R$ 219,40 em até 12x)",
-      "id": "panelas-10-pecas",
-      "foto": "img/panelas-10-pecas.jpg"
+      "detalhe": "abaixo de jogos parecidos em outras lojas (a partir de R$ 39,93)",
+      "id": "lencol-400-fios-queen",
+      "foto": "img/lencol-400-fios-queen.jpg"
+    },
+    {
+      "nome": "Capa de colchão impermeável matelada com elástico (solteiro a king)",
+      "preco": "R$ 13,90",
+      "link": "https://s.shopee.com.br/3g4wxdogN8",
+      "conferido": "03/11 10:05",
+      "ano": 2026,
+      "detalhe": "o valor muda com o tamanho · capas parecidas a partir de R$ 29,99 em outras lojas",
+      "id": "capa-colchao",
+      "foto": "img/capa-colchao.jpg"
+    },
+    {
+      "nome": "Desinfetante concentrado Herbal Pet 1 L",
+      "preco": "R$ 26,50",
+      "link": "https://s.shopee.com.br/8pn3ubXAeK",
+      "conferido": "03/11 10:05",
+      "ano": 2026,
+      "detalhe": "concentrados pet de 1 L saem a partir de R$ 49,90 em pet shops",
+      "id": "desinfetante-herbal-pet",
+      "foto": "img/desinfetante-herbal-pet.jpg"
     },
     {
       "nome": "Kit 2 travesseiros Nasa Duoflex 10 cm, antiácaro, capa 100% algodão",
@@ -21,36 +41,6 @@
       "foto": "img/travesseiros-nasa.jpg"
     },
     {
-      "nome": "Resistência Lorenzetti Loren Shower Ultra 7500 W 220 V",
-      "preco": "R$ 61,60",
-      "link": "https://meli.la/1eo1W9o",
-      "conferido": "03/11 06:10",
-      "ano": 2026,
-      "detalhe": "de R$ 99,99 · frete grátis",
-      "id": "resistencia-loren-shower",
-      "foto": "img/resistencia-loren-shower.jpg"
-    },
-    {
-      "nome": "Cortina blackout lisa 4 m x 2,80 m",
-      "preco": "R$ 106,39",
-      "link": "https://meli.la/27XeZJu",
-      "conferido": "03/11 06:10",
-      "ano": 2026,
-      "detalhe": "no Pix · frete grátis",
-      "id": "cortina-blackout-4m",
-      "foto": "img/cortina-blackout-4m.jpg"
-    },
-    {
-      "nome": "Omeleteira elétrica Agratto Mr Cheff inox redonda (127 V / 220 V)",
-      "preco": "R$ 115,90",
-      "link": "https://s.shopee.com.br/6fiZ3pzYO0",
-      "conferido": "03/11 06:10",
-      "ano": 2026,
-      "detalhe": "23% OFF",
-      "id": "omeleteira-agratto",
-      "foto": "img/omeleteira-agratto.jpg"
-    },
-    {
       "nome": "Fatiador de cozinha multifuncional em aço inox (16 em 1)",
       "preco": "R$ 26,99",
       "link": "https://s.shopee.com.br/2Vt06AOH8k",
@@ -61,6 +51,16 @@
       "foto": "img/fatiador-16em1.jpg"
     },
     {
+      "nome": "Cortina blackout lisa 4 m x 2,80 m",
+      "preco": "R$ 106,39",
+      "link": "https://meli.la/27XeZJu",
+      "conferido": "03/11 06:10",
+      "ano": 2026,
+      "detalhe": "no Pix · frete grátis · abaixo de similares 4 x 2,80 em outras lojas (a partir de R$ 125)",
+      "id": "cortina-blackout-4m",
+      "foto": "img/cortina-blackout-4m.jpg"
+    },
+    {
       "nome": "Porta-temperos de parede com 8 potes e tampa dosadora",
       "preco": "R$ 42,71",
       "link": "https://meli.la/2EnbgUW",
@@ -69,16 +69,6 @@
       "detalhe": "de R$ 61,90",
       "id": "porta-temperos",
       "foto": "img/porta-temperos.jpg"
-    },
-    {
-      "nome": "Capa para colchão impermeável matelada com elástico",
-      "preco": "R$ 13,90",
-      "link": "https://s.shopee.com.br/3g4wxdogN8",
-      "conferido": "02/11 22:30",
-      "ano": 2026,
-      "detalhe": "Shopee · 900 mil+ vendidos",
-      "id": "capa-colchao",
-      "foto": "img/capa-colchao.jpg"
     },
     {
       "nome": "Mini umidificador difusor Egg USB com luz LED",

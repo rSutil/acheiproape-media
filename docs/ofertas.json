@@ -1,6 +1,66 @@
 {
   "ofertas": [
     {
+      "nome": "Conjunto de panelas 10 peças antiaderente com tampa de vidro e utensílios",
+      "preco": "R$ 175,52",
+      "link": "https://s.shopee.com.br/7Aepekg3Fq",
+      "conferido": "03/11 06:40",
+      "ano": 2026,
+      "detalhe": "no Pix (ou R$ 219,40 em até 12x)",
+      "id": "panelas-10-pecas",
+      "foto": "img/panelas-10-pecas.jpg"
+    },
+    {
+      "nome": "Kit 2 travesseiros Nasa Duoflex 10 cm, antiácaro, capa 100% algodão",
+      "preco": "R$ 139,00",
+      "link": "https://meli.la/28Gvznp",
+      "conferido": "03/11 06:10",
+      "ano": 2026,
+      "detalhe": "de R$ 250 · frete grátis",
+      "id": "travesseiros-nasa",
+      "foto": "img/travesseiros-nasa.jpg"
+    },
+    {
+      "nome": "Resistência Lorenzetti Loren Shower Ultra 7500 W 220 V",
+      "preco": "R$ 61,60",
+      "link": "https://meli.la/1eo1W9o",
+      "conferido": "03/11 06:10",
+      "ano": 2026,
+      "detalhe": "de R$ 99,99 · frete grátis",
+      "id": "resistencia-loren-shower",
+      "foto": "img/resistencia-loren-shower.jpg"
+    },
+    {
+      "nome": "Cortina blackout lisa 4 m x 2,80 m",
+      "preco": "R$ 106,39",
+      "link": "https://meli.la/27XeZJu",
+      "conferido": "03/11 06:10",
+      "ano": 2026,
+      "detalhe": "no Pix · frete grátis",
+      "id": "cortina-blackout-4m",
+      "foto": "img/cortina-blackout-4m.jpg"
+    },
+    {
+      "nome": "Fatiador de cozinha multifuncional em aço inox (16 em 1)",
+      "preco": "R$ 26,99",
+      "link": "https://s.shopee.com.br/2Vt06AOH8k",
+      "conferido": "03/11 06:10",
+      "ano": 2026,
+      "detalhe": "73% OFF",
+      "id": "fatiador-16em1",
+      "foto": "img/fatiador-16em1.jpg"
+    },
+    {
+      "nome": "Omeleteira elétrica Agratto Mr Cheff inox redonda (127 V / 220 V)",
+      "preco": "R$ 115,90",
+      "link": "https://s.shopee.com.br/6fiZ3pzYO0",
+      "conferido": "03/11 06:10",
+      "ano": 2026,
+      "detalhe": "23% OFF",
+      "id": "omeleteira-agratto",
+      "foto": "img/omeleteira-agratto.jpg"
+    },
+    {
       "nome": "Porta-temperos de parede com 8 potes e tampa dosadora",
       "preco": "R$ 42,71",
       "link": "https://meli.la/2EnbgUW",

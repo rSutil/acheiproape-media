@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Porta-temperos de parede com 8 potes e tampa dosadora",
+      "preco": "R$ 42,71",
+      "link": "https://meli.la/2EnbgUW",
+      "conferido": "02/11 22:47",
+      "ano": 2026,
+      "detalhe": "de R$ 61,90",
+      "id": "porta-temperos",
+      "foto": "img/porta-temperos.jpg"
+    },
+    {
       "nome": "Capa para colchão impermeável matelada com elástico",
       "preco": "R$ 13,90",
       "link": "https://s.shopee.com.br/3g4wxdogN8",
@@ -49,16 +59,6 @@
       "ano": 2026,
       "id": "toalhas-banho",
       "foto": "img/toalhas-banho.jpg"
-    },
-    {
-      "nome": "Porta-temperos de parede em madeira com 8 potes e tampa dosadora",
-      "link": "https://meli.la/2EnbgUW",
-      "preco": "R$ 42,71",
-      "detalhe": "frete grátis",
-      "conferido": "02/11 06:37",
-      "ano": 2026,
-      "id": "porta-temperos",
-      "foto": "img/porta-temperos.jpg"
     }
   ]
 }

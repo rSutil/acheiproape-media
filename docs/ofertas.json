@@ -41,16 +41,6 @@
       "foto": "img/cortina-blackout-4m.jpg"
     },
     {
-      "nome": "Fatiador de cozinha multifuncional em aço inox (16 em 1)",
-      "preco": "R$ 26,99",
-      "link": "https://s.shopee.com.br/2Vt06AOH8k",
-      "conferido": "03/11 06:10",
-      "ano": 2026,
-      "detalhe": "73% OFF",
-      "id": "fatiador-16em1",
-      "foto": "img/fatiador-16em1.jpg"
-    },
-    {
       "nome": "Omeleteira elétrica Agratto Mr Cheff inox redonda (127 V / 220 V)",
       "preco": "R$ 115,90",
       "link": "https://s.shopee.com.br/6fiZ3pzYO0",
@@ -59,6 +49,16 @@
       "detalhe": "23% OFF",
       "id": "omeleteira-agratto",
       "foto": "img/omeleteira-agratto.jpg"
+    },
+    {
+      "nome": "Fatiador de cozinha multifuncional em aço inox (16 em 1)",
+      "preco": "R$ 26,99",
+      "link": "https://s.shopee.com.br/2Vt06AOH8k",
+      "conferido": "03/11 06:10",
+      "ano": 2026,
+      "detalhe": "abaixo dos similares (a partir de R$ 36 no ML)",
+      "id": "fatiador-16em1",
+      "foto": "img/fatiador-16em1.jpg"
     },
     {
       "nome": "Porta-temperos de parede com 8 potes e tampa dosadora",

@@ -1,6 +1,46 @@
 {
   "ofertas": [
     {
+      "nome": "Capa para colchão impermeável matelada com elástico",
+      "preco": "R$ 13,90",
+      "link": "https://s.shopee.com.br/3g4wxdogN8",
+      "conferido": "02/11 22:30",
+      "ano": 2026,
+      "detalhe": "Shopee · 900 mil+ vendidos",
+      "id": "capa-colchao",
+      "foto": "img/capa-colchao.jpg"
+    },
+    {
+      "nome": "Mini umidificador difusor Egg USB com luz LED",
+      "preco": "R$ 16,99",
+      "link": "https://s.shopee.com.br/906TKlffHU",
+      "conferido": "02/11 22:30",
+      "ano": 2026,
+      "detalhe": "56% OFF na Shopee · 400 mil+ vendidos",
+      "id": "umidificador-egg",
+      "foto": "img/umidificador-egg.jpg"
+    },
+    {
+      "nome": "Mixer elétrico 2 em 1 para café, leite e clara",
+      "preco": "R$ 18,69",
+      "link": "https://s.shopee.com.br/W7vDBtHVb",
+      "conferido": "02/11 22:30",
+      "ano": 2026,
+      "detalhe": "79% OFF na Shopee · 200 mil+ vendidos",
+      "id": "mixer-2em1",
+      "foto": "img/mixer-2em1.jpg"
+    },
+    {
+      "nome": "Folhas de limpeza para banheiro (kits de 30 a 120)",
+      "preco": "a partir de R$ 16,00",
+      "link": "https://s.shopee.com.br/3VlWmgmfJk",
+      "conferido": "02/11 22:30",
+      "ano": 2026,
+      "detalhe": "50% OFF na Shopee · 8 mil+ vendidos",
+      "id": "folhas-banheiro",
+      "foto": "img/folhas-banheiro.jpg"
+    },
+    {
       "nome": "Kit 4 toalhas de banho gigantes 80x150 cm",
       "preco": "R$ 78,99",
       "link": "https://meli.la/2ehasT6",

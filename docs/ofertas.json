@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Panela de pressão Brinox Pressure 4,2 L (Ø20 cm), cor Vanilla",
+      "preco": "R$ 184,90",
+      "link": "https://meli.la/25Tuz8g",
+      "conferido": "04/11 20:38",
+      "ano": 2026,
+      "detalhe": "abaixo do menor preço do Zoom hoje (R$ 192,90) e da loja Brinox (R$ 229,99 no Pix)",
+      "id": "panela-pressao-brinox-vanilla",
+      "foto": "img/panela-pressao-brinox-vanilla.jpg"
+    },
+    {
       "id": "carrossel-5-achados-0411",
       "nome": "5 achadinhos de casa abaixo de R$ 50",
       "preco": "de R$ 25,88 a R$ 42,90",
@@ -56,16 +66,6 @@
       "detalhe": "Shopee",
       "id": "sapateira-9-andares",
       "foto": "img/sapateira-9-andares.jpg"
-    },
-    {
-      "nome": "Panela de pressão Brinox Pressure 4,2 L (Ø20 cm), cor Vanilla",
-      "preco": "R$ 184,90",
-      "link": "https://meli.la/25Tuz8g",
-      "conferido": "04/11 06:29",
-      "ano": 2026,
-      "detalhe": "abaixo do menor preço do Zoom hoje (R$ 192,90) e da loja Brinox (R$ 229,99 no Pix)",
-      "id": "panela-pressao-brinox-vanilla",
-      "foto": "img/panela-pressao-brinox-vanilla.jpg"
     },
     {
       "nome": "Lixeira automática 12 L com sensor infravermelho e tampa antiodor",

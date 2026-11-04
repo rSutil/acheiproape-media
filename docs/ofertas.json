@@ -1,6 +1,26 @@
 {
   "ofertas": [
     {
+      "nome": "Sapateira 9 andares em metal e plástico (cabe ~27 pares)",
+      "preco": "R$ 42,90",
+      "link": "https://s.shopee.com.br/8fTe5IyC7f",
+      "conferido": "04/11 07:26",
+      "ano": 2026,
+      "detalhe": "Shopee",
+      "id": "sapateira-9-andares",
+      "foto": "img/sapateira-9-andares.jpg"
+    },
+    {
+      "nome": "Panela de pressão Brinox Pressure 4,2 L (Ø20 cm), cor Vanilla",
+      "preco": "R$ 184,90",
+      "link": "https://meli.la/25Tuz8g",
+      "conferido": "04/11 06:29",
+      "ano": 2026,
+      "detalhe": "abaixo do menor preço do Zoom hoje (R$ 192,90) e da loja Brinox (R$ 229,99 no Pix)",
+      "id": "panela-pressao-brinox-vanilla",
+      "foto": "img/panela-pressao-brinox-vanilla.jpg"
+    },
+    {
       "nome": "Lixeira automática 12 L com sensor infravermelho e tampa antiodor",
       "preco": "R$ 59,90",
       "link": "https://s.shopee.com.br/8VAEKkyn3e",
@@ -11,16 +31,6 @@
       "foto": "img/lixeira-sensor-12l.jpg"
     },
     {
-      "nome": "Kit 2 tapetes de cozinha antiderrapantes (passadeira belga)",
-      "preco": "R$ 27,59",
-      "link": "https://s.shopee.com.br/4Ve64hduKP",
-      "conferido": "04/11 06:23",
-      "ano": 2026,
-      "detalhe": "kits de 2 tapetes antiderrapantes saem a partir de R$ 39,90 na Amazon",
-      "id": "tapetes-cozinha-belga",
-      "foto": "img/tapetes-cozinha-belga.jpg"
-    },
-    {
       "nome": "Torneira de parede para cozinha em inox com chuveirinho e giro de 360° (prata ou preta)",
       "preco": "R$ 25,88",
       "link": "https://s.shopee.com.br/2gCRtL7IZR",
@@ -29,6 +39,16 @@
       "detalhe": "o valor muda com a cor (até R$ 25,99) · torneiras parecidas a partir de R$ 30,16 em outras lojas",
       "id": "torneira-chuveirinho-360",
       "foto": "img/torneira-chuveirinho-360.jpg"
+    },
+    {
+      "nome": "Kit 2 tapetes de cozinha antiderrapantes (passadeira belga)",
+      "preco": "R$ 27,59",
+      "link": "https://s.shopee.com.br/4Ve64hduKP",
+      "conferido": "04/11 06:23",
+      "ano": 2026,
+      "detalhe": "kits de 2 tapetes antiderrapantes saem a partir de R$ 39,90 na Amazon",
+      "id": "tapetes-cozinha-belga",
+      "foto": "img/tapetes-cozinha-belga.jpg"
     },
     {
       "nome": "Kit de potes de vidro herméticos com tampa de bambu (Epsilon)",

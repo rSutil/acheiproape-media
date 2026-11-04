@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Lixeira automática 12 L com sensor infravermelho e tampa antiodor",
+      "preco": "R$ 56,99",
+      "link": "https://s.shopee.com.br/8VAEKkyn3e",
+      "conferido": "03/11 22:38",
+      "ano": 2026,
+      "detalhe": "lixeiras com sensor de 12 L saem a partir de R$ 75,90 em outras lojas",
+      "id": "lixeira-sensor-12l",
+      "foto": "img/lixeira-sensor-12l.jpg"
+    },
+    {
       "nome": "Jogo de lençol 400 fios queen 3 peças com ponto palito (Texfine)",
       "preco": "R$ 28,90",
       "link": "https://meli.la/1rq4sK5",

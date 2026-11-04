@@ -2,13 +2,43 @@
   "ofertas": [
     {
       "nome": "Lixeira automática 12 L com sensor infravermelho e tampa antiodor",
-      "preco": "R$ 56,99",
+      "preco": "R$ 59,90",
       "link": "https://s.shopee.com.br/8VAEKkyn3e",
-      "conferido": "03/11 22:38",
+      "conferido": "04/11 06:24",
       "ano": 2026,
       "detalhe": "lixeiras com sensor de 12 L saem a partir de R$ 75,90 em outras lojas",
       "id": "lixeira-sensor-12l",
       "foto": "img/lixeira-sensor-12l.jpg"
+    },
+    {
+      "nome": "Kit 2 tapetes de cozinha antiderrapantes (passadeira belga)",
+      "preco": "R$ 27,59",
+      "link": "https://s.shopee.com.br/4Ve64hduKP",
+      "conferido": "04/11 06:23",
+      "ano": 2026,
+      "detalhe": "kits de 2 tapetes antiderrapantes saem a partir de R$ 39,90 na Amazon",
+      "id": "tapetes-cozinha-belga",
+      "foto": "img/tapetes-cozinha-belga.jpg"
+    },
+    {
+      "nome": "Torneira de parede para cozinha em inox com chuveirinho e giro de 360° (prata ou preta)",
+      "preco": "R$ 25,88",
+      "link": "https://s.shopee.com.br/2gCRtL7IZR",
+      "conferido": "04/11 06:23",
+      "ano": 2026,
+      "detalhe": "o valor muda com a cor (até R$ 25,99) · torneiras parecidas a partir de R$ 30,16 em outras lojas",
+      "id": "torneira-chuveirinho-360",
+      "foto": "img/torneira-chuveirinho-360.jpg"
+    },
+    {
+      "nome": "Kit de potes de vidro herméticos com tampa de bambu (Epsilon)",
+      "preco": "R$ 39,56",
+      "link": "https://s.shopee.com.br/5VWcJU1rUx",
+      "conferido": "04/11 06:23",
+      "ano": 2026,
+      "detalhe": "o mesmo kit Epsilon já foi visto a R$ 47,34 em outra loja",
+      "id": "potes-vidro-bambu-epsilon",
+      "foto": "img/potes-vidro-bambu-epsilon.jpg"
     },
     {
       "nome": "Jogo de lençol 400 fios queen 3 peças com ponto palito (Texfine)",

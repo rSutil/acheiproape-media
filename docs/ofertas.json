@@ -1,6 +1,43 @@
 {
   "ofertas": [
     {
+      "id": "carrossel-5-achados-0411",
+      "nome": "5 achadinhos de casa abaixo de R$ 50",
+      "preco": "de R$ 25,88 a R$ 42,90",
+      "conferido": "04/11 10:43",
+      "ano": 2026,
+      "detalhe": "Shopee · os 5 itens estão nesta página",
+      "foto": "img/sapateira-9-andares.jpg",
+      "link": "https://s.shopee.com.br/8fTe5IyC7f",
+      "itens": [
+        {
+          "nome": "Sapateira 9 andares",
+          "preco": "R$ 42,90",
+          "link": "https://s.shopee.com.br/8fTe5IyC7f"
+        },
+        {
+          "nome": "Potes de vidro c/ tampa de bambu",
+          "preco": "R$ 39,56",
+          "link": "https://s.shopee.com.br/5VWcJU1rUx"
+        },
+        {
+          "nome": "Mop spray c/ reservatório",
+          "preco": "R$ 39,99",
+          "link": "https://s.shopee.com.br/qkni3uK6O"
+        },
+        {
+          "nome": "2 tapetes de cozinha antiderrapantes",
+          "preco": "R$ 27,59",
+          "link": "https://s.shopee.com.br/4Ve64hduKP"
+        },
+        {
+          "nome": "Torneira inox chuveirinho 360°",
+          "preco": "a partir de R$ 25,88",
+          "link": "https://s.shopee.com.br/2gCRtL7IZR"
+        }
+      ]
+    },
+    {
       "nome": "Mop spray com reservatório (esfregão com borrifador)",
       "preco": "R$ 39,99",
       "link": "https://s.shopee.com.br/qkni3uK6O",

@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Jogo de facas de cozinha 8 peças Genebra, corte navalha e lâmina antiaderente",
+      "preco": "R$ 25,99",
+      "link": "https://s.shopee.com.br/3B8k4mAekN",
+      "conferido": "05/11 12:37",
+      "ano": 2026,
+      "detalhe": "kits de 8 facas antiaderentes saem a partir de R$ 38,70 no Mercado Livre e R$ 64,07 na Amazon",
+      "id": "jogo-facas-8-genebra",
+      "foto": "img/jogo-facas-8-genebra.jpg"
+    },
+    {
       "nome": "Kit 10 sacos organizadores em PVC transparente com zíper (Isaplastic) para edredom, coberta e roupa de cama",
       "preco": "R$ 49,99",
       "link": "https://s.shopee.com.br/5AtoSRuJOs",
@@ -29,16 +39,6 @@
       "detalhe": "o mesmo kit sai por R$ 69,90 na Magalu e R$ 80,91 na MadeiraMadeira",
       "id": "mesas-canto-pe-palito-2",
       "foto": "img/mesas-canto-pe-palito-2.jpg"
-    },
-    {
-      "nome": "Jogo de facas de cozinha 8 peças Genebra, corte navalha e lâmina antiaderente",
-      "preco": "R$ 25,99",
-      "link": "https://s.shopee.com.br/3B8k4mAekN",
-      "conferido": "05/11 06:04",
-      "ano": 2026,
-      "detalhe": "kits de 8 facas antiaderentes saem a partir de R$ 38,70 no Mercado Livre e R$ 64,07 na Amazon",
-      "id": "jogo-facas-8-genebra",
-      "foto": "img/jogo-facas-8-genebra.jpg"
     },
     {
       "nome": "Jogo de 6 taças de vidro Diamond 330 ml",

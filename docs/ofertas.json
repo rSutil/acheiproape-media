@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Conjunto de panelas antiaderentes Essenza Di Chef, 10 peças, cor preta",
+      "preco": "R$ 187,47 no Pix",
+      "link": "https://meli.la/2asqjep",
+      "conferido": "05/11 20:35",
+      "ano": 2026,
+      "detalhe": "R$ 197,34 em outros meios · a mesma linha sai por R$ 199,90 na loja da Essenza Di Chef",
+      "id": "panelas-essenza-10-pecas",
+      "foto": "img/panelas-essenza-10-pecas.jpg"
+    },
+    {
       "nome": "Jogo de 6 taças de vidro Diamond 330 ml",
       "preco": "R$ 32,49",
       "link": "https://s.shopee.com.br/7fb9R5sNi3",
@@ -39,16 +49,6 @@
       "detalhe": "o mesmo kit da Isaplastic sai por R$ 68,30 no Mercado Livre",
       "id": "sacos-organizadores-isaplastic-10",
       "foto": "img/sacos-organizadores-isaplastic-10.jpg"
-    },
-    {
-      "nome": "Conjunto de panelas antiaderentes Essenza Di Chef, 10 peças, cor preta",
-      "preco": "R$ 179,58 no Pix",
-      "link": "https://meli.la/2asqjep",
-      "conferido": "05/11 06:20",
-      "ano": 2026,
-      "detalhe": "R$ 197,34 em outros meios · a mesma linha sai por R$ 199,90 na loja da Essenza Di Chef",
-      "id": "panelas-essenza-10-pecas",
-      "foto": "img/panelas-essenza-10-pecas.jpg"
     },
     {
       "nome": "Kit 2 mesas de canto pé palito, tripé redondo, branca fosca",

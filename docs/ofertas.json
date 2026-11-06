@@ -1,6 +1,46 @@
 {
   "ofertas": [
     {
+      "nome": "Pano reutilizável Scott Duramax em rolo, kit com 3 unidades brancas (174 folhas)",
+      "preco": "R$ 29,89",
+      "link": "https://s.shopee.com.br/6L5nRlVuJk",
+      "conferido": "06/11 06:45",
+      "ano": 2026,
+      "detalhe": "o mesmo kit sai por R$ 36,00 na Amazon",
+      "id": "scott-duramax-kit-3",
+      "foto": "img/scott-duramax-kit-3.jpg"
+    },
+    {
+      "nome": "Kit 4 formas de gelo com fundo de silicone, 14 cubos e tampa rígida",
+      "preco": "R$ 22,49",
+      "link": "https://s.shopee.com.br/7VHksRuROo",
+      "conferido": "06/11 06:45",
+      "ano": 2026,
+      "detalhe": "kits de 4 formas equivalentes saem a partir de R$ 23,75 na Amazon",
+      "id": "formas-gelo-silicone-4",
+      "foto": "img/formas-gelo-silicone-4.jpg"
+    },
+    {
+      "nome": "Dispenser de detergente embutido em aço inox escovado para pia de granito",
+      "preco": "R$ 19,97",
+      "link": "https://s.shopee.com.br/9APyrWngwp",
+      "conferido": "06/11 06:45",
+      "ano": 2026,
+      "detalhe": "dispensers embutir semelhantes saem a partir de R$ 25,90 na Amazon",
+      "id": "dispenser-detergente-nitro-embutir",
+      "foto": "img/dispenser-detergente-nitro-embutir.jpg"
+    },
+    {
+      "nome": "Fita de LED mangueira neon 5 metros IP65 flexível (variante sem fonte)",
+      "preco": "R$ 19,90",
+      "link": "https://s.shopee.com.br/5Atq6AlJv5",
+      "conferido": "06/11 06:45",
+      "ano": 2026,
+      "detalhe": "o valor muda com a cor e se leva fonte · mangueiras neon 5 m saem a partir de R$ 23,00 na Amazon",
+      "id": "fita-led-neon-5m-abella",
+      "foto": "img/fita-led-neon-5m-abella.jpg"
+    },
+    {
       "nome": "Conjunto de panelas antiaderentes Essenza Di Chef, 10 peças, cor preta",
       "preco": "R$ 187,47 no Pix",
       "link": "https://meli.la/2asqjep",

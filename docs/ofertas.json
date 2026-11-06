@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 4 formas de gelo com fundo de silicone, 14 cubos e tampa rígida",
+      "link": "https://s.shopee.com.br/7VHksRuROo",
+      "preco": "R$ 22,49",
+      "detalhe": "kits de 4 formas equivalentes saem a partir de R$ 23,75 na Amazon",
+      "conferido": "06/11 12:37",
+      "ano": 2026,
+      "id": "formas-gelo-silicone-4",
+      "foto": "img/formas-gelo-silicone-4.jpg"
+    },
+    {
       "nome": "Mini aspirador de pó portátil sem fio 3 em 1, 6000Pa recarregável",
       "preco": "R$ 24,88",
       "link": "https://s.shopee.com.br/6AmNFcJZ8r",
@@ -19,16 +29,6 @@
       "detalhe": "o mesmo kit sai por R$ 36,00 na Amazon",
       "id": "scott-duramax-kit-3",
       "foto": "img/scott-duramax-kit-3.jpg"
-    },
-    {
-      "nome": "Kit 4 formas de gelo com fundo de silicone, 14 cubos e tampa rígida",
-      "preco": "R$ 22,49",
-      "link": "https://s.shopee.com.br/7VHksRuROo",
-      "conferido": "06/11 06:45",
-      "ano": 2026,
-      "detalhe": "kits de 4 formas equivalentes saem a partir de R$ 23,75 na Amazon",
-      "id": "formas-gelo-silicone-4",
-      "foto": "img/formas-gelo-silicone-4.jpg"
     },
     {
       "nome": "Dispenser de detergente embutido em aço inox escovado para pia de granito",

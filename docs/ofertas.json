@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Bule antiaderente Ipanema 1 L, cor grafite",
+      "preco": "R$ 34,90",
+      "link": "https://meli.la/15Ci9mv",
+      "conferido": "06/11 15:09",
+      "ano": 2026,
+      "detalhe": "o mesmo tipo sai a partir de R$ 39,80 na Amazon",
+      "id": "bule-ipanema-1l-grafite",
+      "foto": "img/bule-ipanema-1l-grafite.jpg"
+    },
+    {
       "nome": "Kit 4 formas de gelo com fundo de silicone, 14 cubos e tampa rígida",
       "link": "https://s.shopee.com.br/7VHksRuROo",
       "preco": "R$ 22,49",
@@ -59,16 +69,6 @@
       "detalhe": "kits de 10 spots 7W parecidos saem a partir de R$ 46,55 na Amazon",
       "id": "spot-led-10-dicroica-7w",
       "foto": "img/spot-led-10-dicroica-7w.jpg"
-    },
-    {
-      "nome": "Bule antiaderente Ipanema 1 L, cor grafite",
-      "preco": "R$ 34,90",
-      "link": "https://meli.la/15Ci9mv",
-      "conferido": "06/11 06:20",
-      "ano": 2026,
-      "detalhe": "o mesmo tipo sai a partir de R$ 39,80 na Amazon",
-      "id": "bule-ipanema-1l-grafite",
-      "foto": "img/bule-ipanema-1l-grafite.jpg"
     },
     {
       "nome": "Conjunto de panelas antiaderentes Essenza Di Chef, 10 peças, cor preta",

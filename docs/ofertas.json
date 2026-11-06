@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Dispenser de detergente embutido em aço inox escovado para pia de granito",
+      "link": "https://s.shopee.com.br/9APyrWngwp",
+      "preco": "R$ 19,97",
+      "detalhe": "dispensers embutir semelhantes saem a partir de R$ 25,90 na Amazon",
+      "conferido": "06/11 18:07",
+      "ano": 2026,
+      "id": "dispenser-detergente-nitro-embutir",
+      "foto": "img/dispenser-detergente-nitro-embutir.jpg"
+    },
+    {
       "nome": "Cafeteira Espresso Luna Vermelha TRES 3 Corações (127V ou 220V)",
       "preco": "R$ 358,80",
       "link": "https://meli.la/1yEu3zu",
@@ -49,16 +59,6 @@
       "detalhe": "o mesmo kit sai por R$ 36,00 na Amazon",
       "id": "scott-duramax-kit-3",
       "foto": "img/scott-duramax-kit-3.jpg"
-    },
-    {
-      "nome": "Dispenser de detergente embutido em aço inox escovado para pia de granito",
-      "preco": "R$ 19,97",
-      "link": "https://s.shopee.com.br/9APyrWngwp",
-      "conferido": "06/11 06:45",
-      "ano": 2026,
-      "detalhe": "dispensers embutir semelhantes saem a partir de R$ 25,90 na Amazon",
-      "id": "dispenser-detergente-nitro-embutir",
-      "foto": "img/dispenser-detergente-nitro-embutir.jpg"
     },
     {
       "nome": "Fita de LED mangueira neon 5 metros IP65 flexível (variante sem fonte)",

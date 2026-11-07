@@ -1,6 +1,36 @@
 {
   "ofertas": [
     {
+      "nome": "Kit colmeia organizadora de gavetas/guarda-roupa P, M, G e GG (Maison Plus)",
+      "preco": "R$ 19,90",
+      "link": "https://s.shopee.com.br/1BNitRIHIW",
+      "conferido": "07/11 06:15",
+      "ano": 2026,
+      "detalhe": "o valor muda com o tamanho do kit (P/M/G/GG)",
+      "id": "colmeia-maison-plus-pmgg",
+      "foto": "img/colmeia-maison-plus-pmgg.jpg"
+    },
+    {
+      "nome": "Kit 10 ganchos adesivos de parede transparentes 9 mm multifuncionais",
+      "preco": "R$ 22,99",
+      "link": "https://s.shopee.com.br/1gJzUPbEIE",
+      "conferido": "07/11 06:15",
+      "ano": 2026,
+      "detalhe": "transparentes, sem furar a parede",
+      "id": "ganchos-adesivos-9mm-kit10",
+      "foto": "img/ganchos-adesivos-9mm-kit10.jpg"
+    },
+    {
+      "nome": "Kit 3 peneiras/coadores em aço inox para cozinha (P/M/G 8/10/12 cm)",
+      "preco": "R$ 16,59",
+      "link": "https://s.shopee.com.br/3qOU4O6ukb",
+      "conferido": "07/11 06:15",
+      "ano": 2026,
+      "detalhe": "três tamanhos 8, 10 e 12 cm",
+      "id": "peneiras-inox-kit3-pmg",
+      "foto": "img/peneiras-inox-kit3-pmg.jpg"
+    },
+    {
       "nome": "Fita de LED mangueira neon 5 metros IP65 flexível (variante sem fonte)",
       "link": "https://s.shopee.com.br/5Atq6AlJv5",
       "preco": "R$ 19,90",

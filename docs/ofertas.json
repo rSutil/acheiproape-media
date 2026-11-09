@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Mini ventilador turbo portátil USB recarregável, 120 velocidades e display LED",
+      "link": "https://s.shopee.com.br/4B1Nf00SJL",
+      "preco": "R$ 27,98",
+      "detalhe": "valor inicial; muda com a variante escolhida",
+      "conferido": "09/11 15:39",
+      "ano": 2026,
+      "id": "mini-ventilador-turbo-120-niveis",
+      "foto": "img/mini-ventilador-turbo-120-niveis.jpg"
+    },
+    {
       "nome": "Fone de ouvido sem fio Bluetooth TWS Senbenbao X55 com display LED",
       "link": "https://s.shopee.com.br/80E6Dwb5SB",
       "preco": "R$ 19,29",
@@ -410,16 +420,6 @@
       "detalhe": "56% OFF na Shopee · 400 mil+ vendidos",
       "id": "umidificador-egg",
       "foto": "img/umidificador-egg.jpg"
-    },
-    {
-      "nome": "Mixer elétrico 2 em 1 para café, leite e clara",
-      "preco": "R$ 18,69",
-      "link": "https://s.shopee.com.br/W7vDBtHVb",
-      "conferido": "02/11 22:30",
-      "ano": 2026,
-      "detalhe": "79% OFF na Shopee · 200 mil+ vendidos",
-      "id": "mixer-2em1",
-      "foto": "img/mixer-2em1.jpg"
     }
   ]
 }

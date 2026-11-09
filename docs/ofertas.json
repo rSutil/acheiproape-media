@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Fone de ouvido sem fio Bluetooth TWS Senbenbao X55 com display LED",
+      "link": "https://s.shopee.com.br/80E6Dwb5SB",
+      "preco": "R$ 19,29",
+      "detalhe": "valor inicial; muda com a variante escolhida",
+      "conferido": "09/11 13:20",
+      "ano": 2026,
+      "id": "fone-tws-senbenbao-x55",
+      "foto": "img/fone-tws-senbenbao-x55.jpg"
+    },
+    {
       "nome": "Bolsa feminina transversal trançada em couro PU vegano, alça ajustável (Romantic Crown)",
       "link": "https://s.shopee.com.br/5q9bdys4fh",
       "preco": "R$ 69,98",
@@ -410,16 +420,6 @@
       "detalhe": "79% OFF na Shopee · 200 mil+ vendidos",
       "id": "mixer-2em1",
       "foto": "img/mixer-2em1.jpg"
-    },
-    {
-      "nome": "Folhas de limpeza para banheiro (kits de 30 a 120)",
-      "preco": "a partir de R$ 16,00",
-      "link": "https://s.shopee.com.br/3VlWmgmfJk",
-      "conferido": "02/11 22:30",
-      "ano": 2026,
-      "detalhe": "50% OFF na Shopee · 8 mil+ vendidos",
-      "id": "folhas-banheiro",
-      "foto": "img/folhas-banheiro.jpg"
     }
   ]
 }

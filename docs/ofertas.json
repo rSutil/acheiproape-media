@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Fritadeira Air Fryer Itatiaia 3,5 L, 127V",
+      "link": "https://s.shopee.com.br/114Lt89jeB",
+      "preco": "R$ 181,75",
+      "detalhe": "3,5 litros, voltagem 127V",
+      "conferido": "09/11 20:18",
+      "ano": 2026,
+      "id": "air-fryer-itatiaia-3-5l-127v",
+      "foto": "img/air-fryer-itatiaia-3-5l-127v.jpg"
+    },
+    {
       "nome": "Manta para sofá gigante, tipo capa protetora, vários tamanhos (UtiliLar)",
       "link": "https://s.shopee.com.br/4LKnrHrlkX",
       "preco": "R$ 59,99",
@@ -410,16 +420,6 @@
       "detalhe": "abaixo de jogos parecidos em outras lojas (a partir de R$ 39,93)",
       "id": "lencol-400-fios-queen",
       "foto": "img/lencol-400-fios-queen.jpg"
-    },
-    {
-      "nome": "Capa de colchão impermeável matelada com elástico (solteiro a king)",
-      "preco": "R$ 13,90",
-      "link": "https://s.shopee.com.br/3g4wxdogN8",
-      "conferido": "03/11 10:05",
-      "ano": 2026,
-      "detalhe": "o valor muda com o tamanho · capas parecidas a partir de R$ 29,99 em outras lojas",
-      "id": "capa-colchao",
-      "foto": "img/capa-colchao.jpg"
     }
   ]
 }

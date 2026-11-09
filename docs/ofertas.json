@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 2 packs de saco de lixo lavanda para pia e banheiro, 80 sacos 34x38 cm",
+      "link": "https://s.shopee.com.br/8pnDDX1qP7",
+      "preco": "R$ 14,99",
+      "detalhe": "80 sacos 34x38 cm, perfume lavanda",
+      "conferido": "09/11 17:33",
+      "ano": 2026,
+      "id": "saco-lixo-lavanda-kit2-80",
+      "foto": "img/saco-lixo-lavanda-kit2-80.jpg"
+    },
+    {
       "nome": "Mini ventilador turbo portátil USB recarregável, 120 velocidades e display LED",
       "link": "https://s.shopee.com.br/4B1Nf00SJL",
       "preco": "R$ 27,98",
@@ -410,16 +420,6 @@
       "detalhe": "no Pix · frete grátis · abaixo de similares 4 x 2,80 em outras lojas (a partir de R$ 125)",
       "id": "cortina-blackout-4m",
       "foto": "img/cortina-blackout-4m.jpg"
-    },
-    {
-      "nome": "Porta-temperos de parede com 8 potes e tampa dosadora",
-      "preco": "R$ 42,71",
-      "link": "https://meli.la/2EnbgUW",
-      "conferido": "02/11 22:47",
-      "ano": 2026,
-      "detalhe": "de R$ 61,90",
-      "id": "porta-temperos",
-      "foto": "img/porta-temperos.jpg"
     }
   ]
 }

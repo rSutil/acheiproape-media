@@ -11,6 +11,43 @@
       "foto": "img/air-fryer-itatiaia-3-5l-127v.jpg"
     },
     {
+      "id": "top3-2026-11-09",
+      "nome": "Top 3 achadinhos de hoje",
+      "preco": "R$ 49,98 a R$ 181,75",
+      "conferido": "09/11 20:18",
+      "ano": 2026,
+      "detalhe": "Shopee · os 3 itens do carrossel",
+      "link": "https://s.shopee.com.br/2gCZsBhOM1",
+      "foto": "img/copo-termico-romantic-crown-1200ml.jpg",
+      "itens": [
+        {
+          "nome": "Copo térmico 1,2 L",
+          "preco": "R$ 49,98",
+          "link": "https://s.shopee.com.br/2gCZsBhOM1"
+        },
+        {
+          "nome": "Air Fryer Itatiaia 3,5 L 127V",
+          "preco": "R$ 181,75",
+          "link": "https://s.shopee.com.br/114Lt89jeB"
+        },
+        {
+          "nome": "Manta sofá gigante",
+          "preco": "R$ 59,99",
+          "link": "https://s.shopee.com.br/4LKnrHrlkX"
+        }
+      ]
+    },
+    {
+      "nome": "Aspirador de pó a bateria 21V 2 em 1 casa e carro",
+      "link": "https://meli.la/12Y3p4o",
+      "preco": "R$ 304,00",
+      "detalhe": "21V, 2 em 1 casa e carro",
+      "conferido": "09/11 20:17",
+      "ano": 2026,
+      "id": "aspirador-bateria-21v-2em1",
+      "foto": "img/aspirador-bateria-21v-2em1.jpg"
+    },
+    {
       "nome": "Manta para sofá gigante, tipo capa protetora, vários tamanhos (UtiliLar)",
       "link": "https://s.shopee.com.br/4LKnrHrlkX",
       "preco": "R$ 59,99",
@@ -400,53 +437,6 @@
       "detalhe": "o valor muda com a cor (até R$ 25,99) · torneiras parecidas a partir de R$ 30,16 em outras lojas",
       "id": "torneira-chuveirinho-360",
       "foto": "img/torneira-chuveirinho-360.jpg"
-    },
-    {
-      "nome": "Kit 2 tapetes de cozinha antiderrapantes (passadeira belga)",
-      "preco": "R$ 27,59",
-      "link": "https://s.shopee.com.br/4Ve64hduKP",
-      "conferido": "04/11 06:23",
-      "ano": 2026,
-      "detalhe": "kits de 2 tapetes antiderrapantes saem a partir de R$ 39,90 na Amazon",
-      "id": "tapetes-cozinha-belga",
-      "foto": "img/tapetes-cozinha-belga.jpg"
-    },
-    {
-      "nome": "Jogo de lençol 400 fios queen 3 peças com ponto palito (Texfine)",
-      "preco": "R$ 28,90",
-      "link": "https://meli.la/1rq4sK5",
-      "conferido": "03/11 10:05",
-      "ano": 2026,
-      "detalhe": "abaixo de jogos parecidos em outras lojas (a partir de R$ 39,93)",
-      "id": "lencol-400-fios-queen",
-      "foto": "img/lencol-400-fios-queen.jpg"
-    },
-    {
-      "id": "top3-2026-11-09",
-      "nome": "Top 3 achadinhos de hoje",
-      "preco": "R$ 49,98 a R$ 181,75",
-      "conferido": "09/11 20:18",
-      "ano": 2026,
-      "detalhe": "Shopee · os 3 itens do carrossel",
-      "link": "https://s.shopee.com.br/2gCZsBhOM1",
-      "foto": "img/copo-termico-romantic-crown-1200ml.jpg",
-      "itens": [
-        {
-          "nome": "Copo térmico 1,2 L",
-          "preco": "R$ 49,98",
-          "link": "https://s.shopee.com.br/2gCZsBhOM1"
-        },
-        {
-          "nome": "Air Fryer Itatiaia 3,5 L 127V",
-          "preco": "R$ 181,75",
-          "link": "https://s.shopee.com.br/114Lt89jeB"
-        },
-        {
-          "nome": "Manta sofá gigante",
-          "preco": "R$ 59,99",
-          "link": "https://s.shopee.com.br/4LKnrHrlkX"
-        }
-      ]
     }
   ]
 }

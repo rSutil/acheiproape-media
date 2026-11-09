@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 3 peneiras/coadores em aço inox para cozinha (P/M/G 8/10/12 cm)",
+      "preco": "R$ 16,59",
+      "link": "https://s.shopee.com.br/6AmRT4moM6",
+      "conferido": "08/11 21:37",
+      "ano": 2026,
+      "detalhe": "três tamanhos 8, 10 e 12 cm",
+      "id": "peneiras-inox-kit3-pmg",
+      "foto": "img/peneiras-inox-kit3-pmg.jpg"
+    },
+    {
       "nome": "Luminária luz LED de leitura USB recarregável com clipe (branco)",
       "preco": "R$ 25,90",
       "link": "https://meli.la/1vGHajD",
@@ -29,16 +39,6 @@
       "detalhe": "transparentes, sem furar a parede",
       "id": "ganchos-adesivos-9mm-kit10",
       "foto": "img/ganchos-adesivos-9mm-kit10.jpg"
-    },
-    {
-      "nome": "Kit 3 peneiras/coadores em aço inox para cozinha (P/M/G 8/10/12 cm)",
-      "preco": "R$ 16,59",
-      "link": "https://s.shopee.com.br/3qOU4O6ukb",
-      "conferido": "07/11 06:15",
-      "ano": 2026,
-      "detalhe": "três tamanhos 8, 10 e 12 cm",
-      "id": "peneiras-inox-kit3-pmg",
-      "foto": "img/peneiras-inox-kit3-pmg.jpg"
     },
     {
       "nome": "Fita de LED mangueira neon 5 metros IP65 flexível (variante sem fonte)",

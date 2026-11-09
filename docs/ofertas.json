@@ -420,6 +420,33 @@
       "detalhe": "abaixo de jogos parecidos em outras lojas (a partir de R$ 39,93)",
       "id": "lencol-400-fios-queen",
       "foto": "img/lencol-400-fios-queen.jpg"
+    },
+    {
+      "id": "top3-2026-11-09",
+      "nome": "Top 3 achadinhos de hoje",
+      "preco": "R$ 49,98 a R$ 181,75",
+      "conferido": "09/11 20:18",
+      "ano": 2026,
+      "detalhe": "Shopee · os 3 itens do carrossel",
+      "link": "https://s.shopee.com.br/2gCZsBhOM1",
+      "foto": "img/copo-termico-romantic-crown-1200ml.jpg",
+      "itens": [
+        {
+          "nome": "Copo térmico 1,2 L",
+          "preco": "R$ 49,98",
+          "link": "https://s.shopee.com.br/2gCZsBhOM1"
+        },
+        {
+          "nome": "Air Fryer Itatiaia 3,5 L 127V",
+          "preco": "R$ 181,75",
+          "link": "https://s.shopee.com.br/114Lt89jeB"
+        },
+        {
+          "nome": "Manta sofá gigante",
+          "preco": "R$ 59,99",
+          "link": "https://s.shopee.com.br/4LKnrHrlkX"
+        }
+      ]
     }
   ]
 }

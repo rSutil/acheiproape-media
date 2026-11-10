@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "Carregador 50 W carregamento rápido USB-C com cabo tipo C",
+      "preco": "R$ 22,99",
+      "link": "https://s.shopee.com.br/80E7p9TrMH",
+      "conferido": "10/11 13:22",
+      "ano": 2026,
+      "id": "carregador-50w-usbc-turbo-xiang",
+      "foto": "img/carregador-50w-usbc-turbo-xiang.jpg"
+    },
+    {
       "nome": "Forma de gelo com caixa e gaveta (48 cubos, branca)",
       "preco": "R$ 35,99",
       "link": "https://s.shopee.com.br/5q9ddNyWvt",
@@ -395,16 +404,6 @@
       "ano": 2026,
       "id": "mini-aspirador-6000pa",
       "foto": "img/mini-aspirador-6000pa.jpg"
-    },
-    {
-      "nome": "Kit 10 spot LED SMD dicróica direcionável 7W redondo",
-      "preco": "R$ 42,41",
-      "link": "https://meli.la/2kh9KHK",
-      "conferido": "06/11 06:20",
-      "ano": 2026,
-      "detalhe": "kits de 10 spots 7W parecidos saem a partir de R$ 46,55 na Amazon",
-      "id": "spot-led-10-dicroica-7w",
-      "foto": "img/spot-led-10-dicroica-7w.jpg"
     }
   ]
 }

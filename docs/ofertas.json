@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "Mini rodo de pia com esponja absorvente e auto-torção",
+      "preco": "R$ 15,00",
+      "link": "https://s.shopee.com.br/qkwv3JWSg",
+      "conferido": "10/11 00:01",
+      "ano": 2026,
+      "id": "mini-mop-pia-auto-torcao",
+      "foto": "img/mini-mop-pia-auto-torcao.jpg"
+    },
+    {
       "nome": "Lençol avulso casal queen com elástico 600 fios 100% algodão",
       "link": "https://meli.la/2CFTToY",
       "preco": "R$ 46,42",
@@ -427,16 +436,6 @@
       "detalhe": "abaixo de mops spray parecidos em outras lojas (a partir de R$ 44,80)",
       "id": "mop-spray-reservatorio",
       "foto": "img/mop-spray-reservatorio.jpg"
-    },
-    {
-      "nome": "Sapateira 9 andares em metal e plástico (cabe ~27 pares)",
-      "preco": "R$ 42,90",
-      "link": "https://s.shopee.com.br/8fTe5IyC7f",
-      "conferido": "04/11 07:26",
-      "ano": 2026,
-      "detalhe": "Shopee",
-      "id": "sapateira-9-andares",
-      "foto": "img/sapateira-9-andares.jpg"
     }
   ]
 }

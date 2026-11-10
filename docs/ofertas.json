@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "Forma de gelo com caixa e gaveta (48 cubos, branca)",
+      "preco": "R$ 35,99",
+      "link": "https://s.shopee.com.br/5q9ddNyWvt",
+      "conferido": "10/11 12:49",
+      "ano": 2026,
+      "id": "forma-gelo-gaveta-48",
+      "foto": "img/forma-gelo-gaveta-48.jpg"
+    },
+    {
       "nome": "Necessaire feminina personalizada com inicial, porta-maquiagem com alça",
       "preco": "R$ 17,92",
       "link": "https://s.shopee.com.br/1qdUToI4L0",
@@ -396,16 +405,6 @@
       "detalhe": "kits de 10 spots 7W parecidos saem a partir de R$ 46,55 na Amazon",
       "id": "spot-led-10-dicroica-7w",
       "foto": "img/spot-led-10-dicroica-7w.jpg"
-    },
-    {
-      "nome": "Conjunto de panelas antiaderentes Essenza Di Chef, 10 peças, cor preta",
-      "preco": "R$ 187,47 no Pix",
-      "link": "https://meli.la/2asqjep",
-      "conferido": "05/11 20:35",
-      "ano": 2026,
-      "detalhe": "R$ 197,34 em outros meios · a mesma linha sai por R$ 199,90 na loja da Essenza Di Chef",
-      "id": "panelas-essenza-10-pecas",
-      "foto": "img/panelas-essenza-10-pecas.jpg"
     }
   ]
 }

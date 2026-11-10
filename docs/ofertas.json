@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "Liquidificador Mondial L-99 Turbo 550 W, 3 velocidades",
+      "preco": "R$ 112,99",
+      "link": "https://s.shopee.com.br/7puhcqysaJ",
+      "conferido": "10/11 20:23",
+      "ano": 2026,
+      "id": "liquidificador-mondial-l99-550w",
+      "foto": "img/liquidificador-mondial-l99-550w.jpg"
+    },
+    {
       "nome": "Tábua de corte dupla face em aço inox 304, antimofo",
       "preco": "R$ 39,99",
       "link": "https://s.shopee.com.br/50aWFiLjLK",
@@ -393,16 +402,6 @@
       "detalhe": "transparentes, sem furar a parede",
       "id": "ganchos-adesivos-9mm-kit10",
       "foto": "img/ganchos-adesivos-9mm-kit10.jpg"
-    },
-    {
-      "nome": "Fita de LED mangueira neon 5 metros IP65 flexível (variante sem fonte)",
-      "link": "https://s.shopee.com.br/5Atq6AlJv5",
-      "preco": "R$ 19,90",
-      "detalhe": "o valor muda com a cor e se leva fonte · mangueiras neon 5 m saem a partir de R$ 23,00 na Amazon",
-      "conferido": "06/11 20:32",
-      "ano": 2026,
-      "id": "fita-led-neon-5m-abella",
-      "foto": "img/fita-led-neon-5m-abella.jpg"
     }
   ]
 }

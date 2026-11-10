@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "Tábua de corte dupla face em aço inox 304, antimofo",
+      "preco": "R$ 39,99",
+      "link": "https://s.shopee.com.br/50aWFiLjLK",
+      "conferido": "10/11 19:08",
+      "ano": 2026,
+      "id": "tabua-corte-inox-dupla-face-304",
+      "foto": "img/tabua-corte-inox-dupla-face-304.jpg"
+    },
+    {
       "nome": "Difusor de aromas com varetas Coala 100 ml",
       "link": "https://s.shopee.com.br/50aWFeVfFJ",
       "preco": "R$ 18,90",
@@ -394,16 +403,6 @@
       "ano": 2026,
       "id": "fita-led-neon-5m-abella",
       "foto": "img/fita-led-neon-5m-abella.jpg"
-    },
-    {
-      "nome": "Cafeteira Espresso Luna Vermelha TRES 3 Corações (127V ou 220V)",
-      "preco": "R$ 358,80",
-      "link": "https://meli.la/1yEu3zu",
-      "conferido": "06/11 17:25",
-      "ano": 2026,
-      "detalhe": "versão 220V por R$ 389,49 na Amazon",
-      "id": "cafeteira-luna-tres-vermelha",
-      "foto": "img/cafeteira-luna-tres-vermelha.jpg"
     }
   ]
 }

@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Difusor de aromas com varetas Coala 100 ml",
+      "link": "https://s.shopee.com.br/50aWFeVfFJ",
+      "preco": "R$ 18,90",
+      "detalhe": "valor inicial; muda com a variante",
+      "conferido": "10/11 17:39",
+      "ano": 2026,
+      "id": "difusor-varetas-coala-100ml",
+      "foto": "img/difusor-varetas-coala-100ml.jpg"
+    },
+    {
       "nome": "Cortina de LED 3x3m 300 luzes pisca-pisca, amarelo, bivolt",
       "preco": "R$ 37,91",
       "link": "https://meli.la/21Tmde1",
@@ -394,16 +404,6 @@
       "detalhe": "versão 220V por R$ 389,49 na Amazon",
       "id": "cafeteira-luna-tres-vermelha",
       "foto": "img/cafeteira-luna-tres-vermelha.jpg"
-    },
-    {
-      "nome": "Bule antiaderente Ipanema 1 L, cor grafite",
-      "preco": "R$ 34,90",
-      "link": "https://meli.la/15Ci9mv",
-      "conferido": "06/11 15:09",
-      "ano": 2026,
-      "detalhe": "o mesmo tipo sai a partir de R$ 39,80 na Amazon",
-      "id": "bule-ipanema-1l-grafite",
-      "foto": "img/bule-ipanema-1l-grafite.jpg"
     }
   ]
 }

@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 10 panos de microfibra multiuso (vidro, pia, flanela)",
+      "preco": "R$ 14,90",
+      "link": "https://s.shopee.com.br/3LSGfKC4lL",
+      "conferido": "10/11 08:11",
+      "ano": 2026,
+      "id": "kit-10-panos-microfibra-multiuso",
+      "foto": "img/kit-10-panos-microfibra-multiuso.jpg"
+    },
+    {
       "nome": "Mini rodo de pia com esponja absorvente e auto-torção",
       "preco": "R$ 15,00",
       "link": "https://s.shopee.com.br/qkwv3JWSg",
@@ -426,16 +435,6 @@
           "link": "https://s.shopee.com.br/2gCRtL7IZR"
         }
       ]
-    },
-    {
-      "nome": "Mop spray com reservatório (esfregão com borrifador)",
-      "preco": "R$ 39,99",
-      "link": "https://s.shopee.com.br/qkni3uK6O",
-      "conferido": "04/11 10:31",
-      "ano": 2026,
-      "detalhe": "abaixo de mops spray parecidos em outras lojas (a partir de R$ 44,80)",
-      "id": "mop-spray-reservatorio",
-      "foto": "img/mop-spray-reservatorio.jpg"
     }
   ]
 }

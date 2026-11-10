@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Máscara de dormir 3D de espuma, bloqueio de luz e sem pressão nos olhos (SUMARS)",
+      "link": "https://s.shopee.com.br/7KyPQs0nel",
+      "preco": "R$ 19,74",
+      "detalhe": "valor inicial; muda com a variante/kit escolhido",
+      "conferido": "09/11 21:35",
+      "ano": 2026,
+      "id": "mascara-dormir-3d-sumars",
+      "foto": "img/mascara-dormir-3d-sumars.jpg"
+    },
+    {
       "nome": "Fritadeira Air Fryer Itatiaia 3,5 L, 127V",
       "link": "https://s.shopee.com.br/114Lt89jeB",
       "preco": "R$ 181,75",
@@ -427,16 +437,6 @@
       "detalhe": "lixeiras com sensor de 12 L saem a partir de R$ 75,90 em outras lojas",
       "id": "lixeira-sensor-12l",
       "foto": "img/lixeira-sensor-12l.jpg"
-    },
-    {
-      "nome": "Torneira de parede para cozinha em inox com chuveirinho e giro de 360° (prata ou preta)",
-      "preco": "R$ 25,88",
-      "link": "https://s.shopee.com.br/2gCRtL7IZR",
-      "conferido": "04/11 06:23",
-      "ano": 2026,
-      "detalhe": "o valor muda com a cor (até R$ 25,99) · torneiras parecidas a partir de R$ 30,16 em outras lojas",
-      "id": "torneira-chuveirinho-360",
-      "foto": "img/torneira-chuveirinho-360.jpg"
     }
   ]
 }

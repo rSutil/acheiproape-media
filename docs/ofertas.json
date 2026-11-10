@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 7 organizadores multiuso para gavetas, armários e geladeira",
+      "preco": "R$ 36,85",
+      "link": "https://s.shopee.com.br/2LZl4nacKs",
+      "conferido": "10/11 09:38",
+      "ano": 2026,
+      "id": "kit-7-organizadores-multiuso-acrilico",
+      "foto": "img/kit-7-organizadores-multiuso-acrilico.jpg"
+    },
+    {
       "nome": "Kit 10 panos de microfibra multiuso (vidro, pia, flanela)",
       "preco": "R$ 14,90",
       "link": "https://s.shopee.com.br/3LSGfKC4lL",
@@ -398,43 +407,6 @@
       "detalhe": "abaixo do menor preço do Zoom hoje (R$ 192,90) e da loja Brinox (R$ 229,99 no Pix)",
       "id": "panela-pressao-brinox-vanilla",
       "foto": "img/panela-pressao-brinox-vanilla.jpg"
-    },
-    {
-      "id": "carrossel-5-achados-0411",
-      "nome": "5 achadinhos de casa abaixo de R$ 50",
-      "preco": "de R$ 25,88 a R$ 42,90",
-      "conferido": "04/11 10:43",
-      "ano": 2026,
-      "detalhe": "Shopee · os 5 itens estão nesta página",
-      "foto": "img/sapateira-9-andares.jpg",
-      "link": "https://s.shopee.com.br/8fTe5IyC7f",
-      "itens": [
-        {
-          "nome": "Sapateira 9 andares",
-          "preco": "R$ 42,90",
-          "link": "https://s.shopee.com.br/8fTe5IyC7f"
-        },
-        {
-          "nome": "Potes de vidro c/ tampa de bambu",
-          "preco": "R$ 39,56",
-          "link": "https://s.shopee.com.br/5VWcJU1rUx"
-        },
-        {
-          "nome": "Mop spray c/ reservatório",
-          "preco": "R$ 39,99",
-          "link": "https://s.shopee.com.br/qkni3uK6O"
-        },
-        {
-          "nome": "2 tapetes de cozinha antiderrapantes",
-          "preco": "R$ 27,59",
-          "link": "https://s.shopee.com.br/4Ve64hduKP"
-        },
-        {
-          "nome": "Torneira inox chuveirinho 360°",
-          "preco": "a partir de R$ 25,88",
-          "link": "https://s.shopee.com.br/2gCRtL7IZR"
-        }
-      ]
     }
   ]
 }

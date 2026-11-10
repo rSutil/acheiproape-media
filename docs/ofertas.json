@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "Escova secadora Britânia 4 em 1 nanocerâmica 1300 W (BELLA01)",
+      "preco": "R$ 99,90",
+      "link": "https://s.shopee.com.br/1qdUTnvj7e",
+      "conferido": "10/11 11:54",
+      "ano": 2026,
+      "id": "escova-secadora-britania-4em1-bella01",
+      "foto": "img/escova-secadora-britania-4em1-bella01.jpg"
+    },
+    {
       "nome": "Kit 7 organizadores multiuso para gavetas, armários e geladeira",
       "preco": "R$ 36,85",
       "link": "https://s.shopee.com.br/2LZl4nacKs",
@@ -397,16 +406,6 @@
       "detalhe": "o mesmo kit sai por R$ 69,90 na Magalu e R$ 80,91 na MadeiraMadeira",
       "id": "mesas-canto-pe-palito-2",
       "foto": "img/mesas-canto-pe-palito-2.jpg"
-    },
-    {
-      "nome": "Panela de pressão Brinox Pressure 4,2 L (Ø20 cm), cor Vanilla",
-      "preco": "R$ 184,90",
-      "link": "https://meli.la/25Tuz8g",
-      "conferido": "04/11 20:38",
-      "ano": 2026,
-      "detalhe": "abaixo do menor preço do Zoom hoje (R$ 192,90) e da loja Brinox (R$ 229,99 no Pix)",
-      "id": "panela-pressao-brinox-vanilla",
-      "foto": "img/panela-pressao-brinox-vanilla.jpg"
     }
   ]
 }

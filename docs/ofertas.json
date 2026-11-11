@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "Mouse sem fio dual band (2,4 GHz e Bluetooth), recarregável, MS-S350L",
+      "preco": "a partir de R$ 16,09",
+      "link": "https://s.shopee.com.br/8AXZc1owUB",
+      "conferido": "11/11 13:19",
+      "ano": 2026,
+      "id": "mouse-sem-fio-dual-band-ms-s350l",
+      "foto": "img/mouse-sem-fio-dual-band-ms-s350l.jpg"
+    },
+    {
       "nome": "Presilha piranha garra coreana oval, estilo tartaruga, cores opacas",
       "preco": "a partir de R$ 11,99",
       "link": "https://s.shopee.com.br/1qdW4XvkIu",
@@ -388,15 +397,6 @@
       "ano": 2026,
       "id": "jogo-facas-8-genebra",
       "foto": "img/jogo-facas-8-genebra.jpg"
-    },
-    {
-      "nome": "Kit 10 sacos organizadores em PVC transparente com zíper (Isaplastic) para edredom, coberta e roupa de cama",
-      "preco": "R$ 51,99",
-      "link": "https://s.shopee.com.br/5AtoSRuJOs",
-      "conferido": "09/11 06:17",
-      "ano": 2026,
-      "id": "sacos-organizadores-isaplastic-10",
-      "foto": "img/sacos-organizadores-isaplastic-10.jpg"
     }
   ]
 }

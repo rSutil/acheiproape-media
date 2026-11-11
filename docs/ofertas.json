@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 3 vasos decorativos pretos em espiral para sala e estante",
+      "preco": "R$ 29,90",
+      "link": "https://s.shopee.com.br/3qOaSMkZ5r",
+      "conferido": "11/11 19:11",
+      "ano": 2026,
+      "id": "vasos-decorativos-espiral-kit3-preto",
+      "foto": "img/vasos-decorativos-espiral-kit3-preto.jpg"
+    },
+    {
       "nome": "Suporte de parede para papel higiênico, caixa organizadora sem furar",
       "preco": "a partir de R$ 22,99",
       "link": "https://s.shopee.com.br/5fqEdkCiMR",
@@ -388,15 +397,6 @@
       "ano": 2026,
       "id": "dispenser-detergente-nitro-embutir",
       "foto": "img/dispenser-detergente-nitro-embutir.jpg"
-    },
-    {
-      "nome": "Pano reutilizável Scott Duramax em rolo, kit com 3 unidades brancas (174 folhas)",
-      "preco": "R$ 32,99",
-      "link": "https://s.shopee.com.br/6L5nRlVuJk",
-      "conferido": "09/11 06:17",
-      "ano": 2026,
-      "id": "scott-duramax-kit-3",
-      "foto": "img/scott-duramax-kit-3.jpg"
     }
   ]
 }

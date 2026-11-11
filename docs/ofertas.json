@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "NIVEA Loção deo-hidratante corporal Milk 200 ml",
+      "preco": "R$ 15,90",
+      "link": "https://s.shopee.com.br/6AmVEYvdTD",
+      "conferido": "11/11 08:05",
+      "ano": 2026,
+      "id": "nivea-locao-milk-200ml",
+      "foto": "img/nivea-locao-milk-200ml.jpg"
+    },
+    {
       "nome": "Organizador de maquiagem com espelho e gavetas, compacto",
       "preco": "R$ 45,90",
       "link": "https://s.shopee.com.br/1BqIVjV4S",
@@ -391,16 +400,6 @@
       "detalhe": "recarregável por USB, com clipe",
       "id": "luminaria-led-leitura-clipe",
       "foto": "img/luminaria-led-leitura-clipe.jpg"
-    },
-    {
-      "nome": "Kit colmeia organizadora de gavetas/guarda-roupa P, M, G e GG (Maison Plus)",
-      "preco": "R$ 19,90",
-      "link": "https://s.shopee.com.br/1BNitRIHIW",
-      "conferido": "07/11 08:06",
-      "ano": 2026,
-      "detalhe": "o valor muda com o tamanho do kit (P/M/G/GG)",
-      "id": "colmeia-maison-plus-pmgg",
-      "foto": "img/colmeia-maison-plus-pmgg.jpg"
     }
   ]
 }

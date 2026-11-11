@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "Suporte de parede para papel higiênico, caixa organizadora sem furar",
+      "preco": "a partir de R$ 22,99",
+      "link": "https://s.shopee.com.br/5fqEdkCiMR",
+      "conferido": "11/11 17:39",
+      "ano": 2026,
+      "id": "suporte-papel-higienico-parede-sem-furar",
+      "foto": "img/suporte-papel-higienico-parede-sem-furar.jpg"
+    },
+    {
       "nome": "Lâmpada LED RGB 12 W com caixa de som Bluetooth e controle",
       "preco": "R$ 19,99",
       "link": "https://s.shopee.com.br/80E9PtBw6p",
@@ -388,15 +397,6 @@
       "ano": 2026,
       "id": "scott-duramax-kit-3",
       "foto": "img/scott-duramax-kit-3.jpg"
-    },
-    {
-      "nome": "Jogo de 6 taças de vidro Diamond 330 ml",
-      "preco": "R$ 36,99",
-      "link": "https://s.shopee.com.br/7fb9R5sNi3",
-      "conferido": "09/11 06:17",
-      "ano": 2026,
-      "id": "tacas-diamond-6",
-      "foto": "img/tacas-diamond-6.jpg"
     }
   ]
 }

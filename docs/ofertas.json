@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "Sanduicheira elétrica Cadence Click inox",
+      "preco": "R$ 94,90",
+      "link": "https://s.shopee.com.br/9fMNOvamfY",
+      "conferido": "11/11 20:20",
+      "ano": 2026,
+      "id": "sanduicheira-cadence-click-inox",
+      "foto": "img/sanduicheira-cadence-click-inox.jpg"
+    },
+    {
       "nome": "Kit 3 vasos decorativos pretos em espiral para sala e estante",
       "preco": "R$ 29,90",
       "link": "https://s.shopee.com.br/3qOaSMkZ5r",
@@ -388,15 +397,6 @@
       "ano": 2026,
       "id": "capsulas-dolce-gusto-italle-cappuccino",
       "foto": "img/capsulas-dolce-gusto-italle-cappuccino.jpg"
-    },
-    {
-      "nome": "Dispenser de detergente embutido em aço inox escovado para pia de granito",
-      "link": "https://s.shopee.com.br/9APyrWngwp",
-      "preco": "R$ 19,98",
-      "conferido": "09/11 06:17",
-      "ano": 2026,
-      "id": "dispenser-detergente-nitro-embutir",
-      "foto": "img/dispenser-detergente-nitro-embutir.jpg"
     }
   ]
 }

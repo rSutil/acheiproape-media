@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "Lâmpada LED RGB 12 W com caixa de som Bluetooth e controle",
+      "preco": "R$ 19,99",
+      "link": "https://s.shopee.com.br/80E9PtBw6p",
+      "conferido": "11/11 15:39",
+      "ano": 2026,
+      "id": "lampada-led-caixa-som-bluetooth-rgb",
+      "foto": "img/lampada-led-caixa-som-bluetooth-rgb.jpg"
+    },
+    {
       "nome": "Mouse sem fio dual band (2,4 GHz e Bluetooth), recarregável, MS-S350L",
       "preco": "a partir de R$ 16,09",
       "link": "https://s.shopee.com.br/8AXZc1owUB",
@@ -388,15 +397,6 @@
       "ano": 2026,
       "id": "tacas-diamond-6",
       "foto": "img/tacas-diamond-6.jpg"
-    },
-    {
-      "nome": "Jogo de facas de cozinha 8 peças Genebra, corte navalha e lâmina antiaderente",
-      "preco": "R$ 29,99",
-      "link": "https://s.shopee.com.br/3B8k4mAekN",
-      "conferido": "09/11 06:17",
-      "ano": 2026,
-      "id": "jogo-facas-8-genebra",
-      "foto": "img/jogo-facas-8-genebra.jpg"
     }
   ]
 }

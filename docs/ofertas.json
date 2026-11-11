@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "Organizador de maquiagem com espelho e gavetas, compacto",
+      "preco": "R$ 45,90",
+      "link": "https://s.shopee.com.br/1BqIVjV4S",
+      "conferido": "10/11 21:33",
+      "ano": 2026,
+      "id": "organizador-maquiagem-espelho-gavetas",
+      "foto": "img/organizador-maquiagem-espelho-gavetas.jpg"
+    },
+    {
       "nome": "Liquidificador Mondial L-99 Turbo 550 W, 3 velocidades",
       "preco": "R$ 112,99",
       "link": "https://s.shopee.com.br/7puhcqysaJ",
@@ -392,16 +401,6 @@
       "detalhe": "o valor muda com o tamanho do kit (P/M/G/GG)",
       "id": "colmeia-maison-plus-pmgg",
       "foto": "img/colmeia-maison-plus-pmgg.jpg"
-    },
-    {
-      "nome": "Kit 10 ganchos adesivos de parede transparentes 9 mm multifuncionais",
-      "preco": "R$ 22,99",
-      "link": "https://s.shopee.com.br/1gJzUPbEIE",
-      "conferido": "07/11 06:15",
-      "ano": 2026,
-      "detalhe": "transparentes, sem furar a parede",
-      "id": "ganchos-adesivos-9mm-kit10",
-      "foto": "img/ganchos-adesivos-9mm-kit10.jpg"
     }
   ]
 }

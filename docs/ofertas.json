@@ -10,6 +10,15 @@
       "foto": "img/baby-doll-americano-gola-v-dream-magic.jpg"
     },
     {
+      "nome": "Creme hidratante facial Principia CH-01 50 g (karité, glicerina e niacinamida)",
+      "preco": "R$ 38,70",
+      "link": "https://s.shopee.com.br/60T52FwGoA",
+      "conferido": "11/11 21:33",
+      "ano": 2026,
+      "id": "hidratante-facial-principia-ch01-50g",
+      "foto": "img/hidratante-facial-principia-ch01-50g.jpg"
+    },
+    {
       "nome": "Sanduicheira elétrica Cadence Click inox",
       "preco": "R$ 94,90",
       "link": "https://s.shopee.com.br/9fMNOvamfY",
@@ -386,16 +395,6 @@
       "ano": 2026,
       "id": "copo-termico-romantic-crown-1200ml",
       "foto": "img/copo-termico-romantic-crown-1200ml.jpg"
-    },
-    {
-      "nome": "Porta-escovas e creme dental com encaixe adesivo (Lapê)",
-      "link": "https://s.shopee.com.br/1LhCHek1GS",
-      "preco": "R$ 29,90",
-      "detalhe": "valor inicial; muda com o modelo/kit escolhido",
-      "conferido": "09/11 09:35",
-      "ano": 2026,
-      "id": "porta-escovas-adesivo-lape",
-      "foto": "img/porta-escovas-adesivo-lape.jpg"
     }
   ]
 }

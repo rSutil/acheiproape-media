@@ -1,6 +1,42 @@
 {
   "ofertas": [
     {
+      "nome": "Isqueiro elétrico USB recarregável, acendedor sem chama para fogão, churrasqueira e velas",
+      "preco": "a partir de R$ 13,98",
+      "link": "https://s.shopee.com.br/gRaHhq7ll",
+      "conferido": "12/11 15:37",
+      "ano": 2026,
+      "id": "isqueiro-eletrico-usb-recarregavel-yl",
+      "foto": "img/isqueiro-eletrico-usb-recarregavel-yl.jpg"
+    },
+    {
+      "nome": "Bateria externa portátil 5000/10000 mAh com cabo de carregamento incluso",
+      "preco": "a partir de R$ 36,90",
+      "link": "https://s.shopee.com.br/9fMP0BF96o",
+      "conferido": "12/11 13:19",
+      "ano": 2026,
+      "id": "bateria-externa-5000-10000mah-ibuki",
+      "foto": "img/bateria-externa-5000-10000mah-ibuki.jpg"
+    },
+    {
+      "nome": "Óculos de sol feminino oval retrô, padrão tartaruga",
+      "preco": "a partir de R$ 16,99",
+      "link": "https://s.shopee.com.br/5AtzdsxYGx",
+      "conferido": "12/11 12:35",
+      "ano": 2026,
+      "id": "oculos-sol-feminino-oval-retro-tartaruga-conido",
+      "foto": "img/oculos-sol-feminino-oval-retro-tartaruga-conido.jpg"
+    },
+    {
+      "nome": "Colar com letra inicial e pérolas, banhado a ouro 18K",
+      "preco": "R$ 24,90",
+      "link": "https://s.shopee.com.br/4B1SRjrMl4",
+      "conferido": "12/11 12:35",
+      "ano": 2026,
+      "id": "colar-letra-inicial-perolas-banhado-ouro-lauret",
+      "foto": "img/colar-letra-inicial-perolas-banhado-ouro-lauret.jpg"
+    },
+    {
       "nome": "Frigideira panquequeira antiaderente 22 cm Nacional",
       "preco": "R$ 26,97",
       "link": "https://s.shopee.com.br/60T6d4paub",
@@ -352,46 +388,6 @@
       "ano": 2026,
       "id": "saco-lixo-lavanda-kit2-80",
       "foto": "img/saco-lixo-lavanda-kit2-80.jpg"
-    },
-    {
-      "nome": "Válvula Click 7/8 Metal Inox para cuba pia banheiro lavatório (Aromatec)",
-      "link": "https://meli.la/2Pq1JM7",
-      "preco": "R$ 28,62",
-      "detalhe": "7/8, metal inox, click",
-      "conferido": "09/11 17:33",
-      "ano": 2026,
-      "id": "valvula-click-78-inox-aromatec",
-      "foto": "img/valvula-click-78-inox-aromatec.jpg"
-    },
-    {
-      "nome": "Mini ventilador turbo portátil USB recarregável, 120 velocidades e display LED",
-      "link": "https://s.shopee.com.br/4B1Nf00SJL",
-      "preco": "R$ 27,98",
-      "detalhe": "valor inicial; muda com a variante escolhida",
-      "conferido": "09/11 15:39",
-      "ano": 2026,
-      "id": "mini-ventilador-turbo-120-niveis",
-      "foto": "img/mini-ventilador-turbo-120-niveis.jpg"
-    },
-    {
-      "nome": "Capa de almofada baguete 30x50 Feliz Natal em suede, estampa digital natalina",
-      "link": "https://s.shopee.com.br/4qH4eCB3AR",
-      "preco": "R$ 21,99",
-      "detalhe": "30x50, suede, estampa digital",
-      "conferido": "09/11 15:39",
-      "ano": 2026,
-      "id": "capa-almofada-baguete-natal-30x50",
-      "foto": "img/capa-almofada-baguete-natal-30x50.jpg"
-    },
-    {
-      "nome": "Fone de ouvido sem fio Bluetooth TWS Senbenbao X55 com display LED",
-      "link": "https://s.shopee.com.br/80E6Dwb5SB",
-      "preco": "R$ 19,29",
-      "detalhe": "valor inicial; muda com a variante escolhida",
-      "conferido": "09/11 13:20",
-      "ano": 2026,
-      "id": "fone-tws-senbenbao-x55",
-      "foto": "img/fone-tws-senbenbao-x55.jpg"
     }
   ]
 }

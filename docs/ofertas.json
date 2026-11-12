@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "Baby doll short doll americano gola V liso, pijama feminino",
+      "preco": "a partir de R$ 27,99",
+      "link": "https://s.shopee.com.br/9AQ6nvaeSO",
+      "conferido": "11/11 21:33",
+      "ano": 2026,
+      "id": "baby-doll-americano-gola-v-dream-magic",
+      "foto": "img/baby-doll-americano-gola-v-dream-magic.jpg"
+    },
+    {
       "nome": "Sanduicheira elétrica Cadence Click inox",
       "preco": "R$ 94,90",
       "link": "https://s.shopee.com.br/9fMNOvamfY",
@@ -387,16 +396,6 @@
       "ano": 2026,
       "id": "porta-escovas-adesivo-lape",
       "foto": "img/porta-escovas-adesivo-lape.jpg"
-    },
-    {
-      "nome": "Cápsulas Dolce Gusto Cappuccino Café Italle (caixa com 10)",
-      "link": "https://s.shopee.com.br/1BohEO1jn",
-      "preco": "R$ 19,50",
-      "detalhe": "caixa com 10 cápsulas compatíveis com Dolce Gusto",
-      "conferido": "09/11 08:12",
-      "ano": 2026,
-      "id": "capsulas-dolce-gusto-italle-cappuccino",
-      "foto": "img/capsulas-dolce-gusto-italle-cappuccino.jpg"
     }
   ]
 }

@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "Assadeira de aço inoxidável com tampa, resistente a altas temperaturas",
+      "preco": "R$ 45,90",
+      "link": "https://s.shopee.com.br/70Ldp34cjY",
+      "conferido": "12/11 19:03",
+      "ano": 2026,
+      "id": "assadeira-inox-com-tampa-yiwei",
+      "foto": "img/assadeira-inox-com-tampa-yiwei.jpg"
+    },
+    {
       "nome": "Cesto de roupa grande dobrável 40x70 / 30x50 cm",
       "preco": "a partir de R$ 14,99",
       "link": "https://s.shopee.com.br/ql0TfKNFz",
@@ -378,16 +387,6 @@
       "ano": 2026,
       "id": "manta-sofa-gigante-utililar",
       "foto": "img/manta-sofa-gigante-utililar.jpg"
-    },
-    {
-      "nome": "Kit 4 ou 6 jogos americanos redondos metálicos 38 cm",
-      "link": "https://s.shopee.com.br/5fqBRiiLzm",
-      "preco": "R$ 19,99",
-      "detalhe": "valor inicial; muda com o kit (4 ou 6) e a cor",
-      "conferido": "09/11 19:07",
-      "ano": 2026,
-      "id": "jogo-americano-metalico-38cm",
-      "foto": "img/jogo-americano-metalico-38cm.jpg"
     }
   ]
 }

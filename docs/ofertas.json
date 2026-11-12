@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Ferro de passar roupa a vapor e a seco Electrolux",
+      "preco": "R$ 90,19",
+      "link": "https://s.shopee.com.br/ql0TlM0T0",
+      "conferido": "12/11 20:23",
+      "ano": 2026,
+      "categoria": "organizacao",
+      "id": "ferro-passar-vapor-seco-electrolux",
+      "foto": "img/ferro-passar-vapor-seco-electrolux.jpg"
+    },
+    {
       "nome": "Lixeira automática 16 L com sensor, recarregável por USB",
       "preco": "R$ 78,40",
       "link": "https://s.shopee.com.br/8VARbkHe9b",
@@ -376,16 +386,6 @@
           "link": "https://s.shopee.com.br/4LKnrHrlkX"
         }
       ]
-    },
-    {
-      "nome": "Aspirador de pó a bateria 21V 2 em 1 casa e carro",
-      "link": "https://meli.la/12Y3p4o",
-      "preco": "R$ 304,00",
-      "detalhe": "21V, 2 em 1 casa e carro",
-      "conferido": "09/11 20:17",
-      "ano": 2026,
-      "id": "aspirador-bateria-21v-2em1",
-      "foto": "img/aspirador-bateria-21v-2em1.jpg"
     }
   ]
 }

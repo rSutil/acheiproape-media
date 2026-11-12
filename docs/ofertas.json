@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "Creme desodorante antitranspirante Herbíssimo Care Rosa Mosqueta e Niacinamida, bisnaga 55 g",
+      "preco": "R$ 11,12",
+      "link": "https://s.shopee.com.br/3g5BqiUsml",
+      "conferido": "12/11 08:02",
+      "ano": 2026,
+      "id": "creme-desodorante-herbissimo-rosa-mosqueta-55g",
+      "foto": "img/creme-desodorante-herbissimo-rosa-mosqueta-55g.jpg"
+    },
+    {
       "nome": "Baby doll short doll americano gola V liso, pijama feminino",
       "preco": "a partir de R$ 27,99",
       "link": "https://s.shopee.com.br/9AQ6nvaeSO",
@@ -385,16 +394,6 @@
       "ano": 2026,
       "id": "body-splash-ayra-100ml",
       "foto": "img/body-splash-ayra-100ml.jpg"
-    },
-    {
-      "nome": "Copo térmico inox 1200 ml com bico flip e alça (Romantic Crown)",
-      "link": "https://s.shopee.com.br/2gCZsBhOM1",
-      "preco": "R$ 49,98",
-      "detalhe": "inox, 1200 ml, bico flip e alça",
-      "conferido": "09/11 11:52",
-      "ano": 2026,
-      "id": "copo-termico-romantic-crown-1200ml",
-      "foto": "img/copo-termico-romantic-crown-1200ml.jpg"
     }
   ]
 }

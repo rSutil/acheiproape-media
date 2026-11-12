@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "Cesto de roupa grande dobrável 40x70 / 30x50 cm",
+      "preco": "a partir de R$ 14,99",
+      "link": "https://s.shopee.com.br/ql0TfKNFz",
+      "conferido": "12/11 17:34",
+      "ano": 2026,
+      "id": "cesto-roupa-dobravel-40x70-maxmo",
+      "foto": "img/cesto-roupa-dobravel-40x70-maxmo.jpg"
+    },
+    {
       "nome": "Isqueiro elétrico USB recarregável, acendedor sem chama para fogão, churrasqueira e velas",
       "preco": "a partir de R$ 13,98",
       "link": "https://s.shopee.com.br/gRaHhq7ll",
@@ -379,16 +388,6 @@
       "ano": 2026,
       "id": "jogo-americano-metalico-38cm",
       "foto": "img/jogo-americano-metalico-38cm.jpg"
-    },
-    {
-      "nome": "Kit 2 packs de saco de lixo lavanda para pia e banheiro, 80 sacos 34x38 cm",
-      "link": "https://s.shopee.com.br/8pnDDX1qP7",
-      "preco": "R$ 14,99",
-      "detalhe": "80 sacos 34x38 cm, perfume lavanda",
-      "conferido": "09/11 17:33",
-      "ano": 2026,
-      "id": "saco-lixo-lavanda-kit2-80",
-      "foto": "img/saco-lixo-lavanda-kit2-80.jpg"
     }
   ]
 }

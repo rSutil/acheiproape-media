@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "Lixeira automática 16 L com sensor, recarregável por USB",
+      "preco": "R$ 78,40",
+      "link": "https://s.shopee.com.br/8VARbkHe9b",
+      "conferido": "12/11 19:05",
+      "ano": 2026,
+      "id": "lixeira-automatica-16l-sensor-usb-nm",
+      "foto": "img/lixeira-automatica-16l-sensor-usb-nm.jpg"
+    },
+    {
       "nome": "Assadeira de aço inoxidável com tampa, resistente a altas temperaturas",
       "preco": "R$ 45,90",
       "link": "https://s.shopee.com.br/70Ldp34cjY",
@@ -377,16 +386,6 @@
       "ano": 2026,
       "id": "aspirador-bateria-21v-2em1",
       "foto": "img/aspirador-bateria-21v-2em1.jpg"
-    },
-    {
-      "nome": "Manta para sofá gigante, tipo capa protetora, vários tamanhos (UtiliLar)",
-      "link": "https://s.shopee.com.br/4LKnrHrlkX",
-      "preco": "R$ 59,99",
-      "detalhe": "valor inicial; muda com o tamanho e a cor",
-      "conferido": "09/11 19:07",
-      "ano": 2026,
-      "id": "manta-sofa-gigante-utililar",
-      "foto": "img/manta-sofa-gigante-utililar.jpg"
     }
   ]
 }

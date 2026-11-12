@@ -1,6 +1,15 @@
 {
   "ofertas": [
     {
+      "nome": "Frigideira panquequeira antiaderente 22 cm Nacional",
+      "preco": "R$ 26,97",
+      "link": "https://s.shopee.com.br/60T6d4paub",
+      "conferido": "12/11 11:54",
+      "ano": 2026,
+      "id": "frigideira-panquequeira-antiaderente-22cm-nacional",
+      "foto": "img/frigideira-panquequeira-antiaderente-22cm-nacional.jpg"
+    },
+    {
       "nome": "Kit 5 porta-esponjas de aço inox 304 autoadesivos para pia, sem furar",
       "preco": "a partir de R$ 12,99",
       "link": "https://s.shopee.com.br/1gK7T4G6Pt",
@@ -383,16 +392,6 @@
       "ano": 2026,
       "id": "fone-tws-senbenbao-x55",
       "foto": "img/fone-tws-senbenbao-x55.jpg"
-    },
-    {
-      "nome": "Bolsa feminina transversal trançada em couro PU vegano, alça ajustável (Romantic Crown)",
-      "link": "https://s.shopee.com.br/5q9bdys4fh",
-      "preco": "R$ 69,98",
-      "detalhe": "couro PU vegano, alça ajustável",
-      "conferido": "09/11 12:39",
-      "ano": 2026,
-      "id": "bolsa-trancada-romantic-crown",
-      "foto": "img/bolsa-trancada-romantic-crown.jpg"
     }
   ]
 }

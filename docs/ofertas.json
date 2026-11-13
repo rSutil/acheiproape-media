@@ -1,6 +1,34 @@
 {
   "ofertas": [
     {
+      "nome": "Sabonete líquido Chá Branco Coala Essências, frasco com válvula 500 ml",
+      "preco": "R$ 18,10",
+      "link": "https://s.shopee.com.br/5VWrdBJVHl",
+      "conferido": "13/11 08:04",
+      "ano": 2026,
+      "categoria": "banheiro",
+      "id": "sabonete-liquido-cha-branco-500ml-coala",
+      "foto": "img/sabonete-liquido-cha-branco-500ml-coala.jpg"
+    },
+    {
+      "nome": "Kit de meias soquete cano curto unissex (3, 6, 12 ou 18 pares)",
+      "preco": "a partir de R$ 11,99",
+      "link": "https://s.shopee.com.br/9V2ynioY6i",
+      "conferido": "12/11 21:35",
+      "ano": 2026,
+      "id": "kit-meias-soquete-cano-curto-jamal",
+      "foto": "img/kit-meias-soquete-cano-curto-jamal.jpg"
+    },
+    {
+      "nome": "Pantufa de pelúcia unissex antiderrapante, chinelo de quarto",
+      "preco": "a partir de R$ 19,99",
+      "link": "https://s.shopee.com.br/4fxj2pP5cC",
+      "conferido": "12/11 21:34",
+      "ano": 2026,
+      "id": "pantufa-pelucia-unissex-antiderrapante-viabell",
+      "foto": "img/pantufa-pelucia-unissex-antiderrapante-viabell.jpg"
+    },
+    {
       "nome": "Ferro de passar roupa a vapor e a seco Electrolux",
       "preco": "R$ 90,19",
       "link": "https://s.shopee.com.br/ql0TlM0T0",
@@ -339,53 +367,6 @@
       "ano": 2026,
       "id": "lencol-queen-600-fios-elastico",
       "foto": "img/lencol-queen-600-fios-elastico.jpg"
-    },
-    {
-      "nome": "Máscara de dormir 3D de espuma, bloqueio de luz e sem pressão nos olhos (SUMARS)",
-      "link": "https://s.shopee.com.br/7KyPQs0nel",
-      "preco": "R$ 19,74",
-      "detalhe": "valor inicial; muda com a variante/kit escolhido",
-      "conferido": "09/11 21:35",
-      "ano": 2026,
-      "id": "mascara-dormir-3d-sumars",
-      "foto": "img/mascara-dormir-3d-sumars.jpg"
-    },
-    {
-      "nome": "Fritadeira Air Fryer Itatiaia 3,5 L, 127V",
-      "link": "https://s.shopee.com.br/114Lt89jeB",
-      "preco": "R$ 181,75",
-      "detalhe": "3,5 litros, voltagem 127V",
-      "conferido": "09/11 20:18",
-      "ano": 2026,
-      "id": "air-fryer-itatiaia-3-5l-127v",
-      "foto": "img/air-fryer-itatiaia-3-5l-127v.jpg"
-    },
-    {
-      "id": "top3-2026-11-09",
-      "nome": "Top 3 achadinhos de hoje",
-      "preco": "R$ 49,98 a R$ 181,75",
-      "conferido": "09/11 20:18",
-      "ano": 2026,
-      "detalhe": "Shopee · os 3 itens do carrossel",
-      "link": "https://s.shopee.com.br/2gCZsBhOM1",
-      "foto": "img/copo-termico-romantic-crown-1200ml.jpg",
-      "itens": [
-        {
-          "nome": "Copo térmico 1,2 L",
-          "preco": "R$ 49,98",
-          "link": "https://s.shopee.com.br/2gCZsBhOM1"
-        },
-        {
-          "nome": "Air Fryer Itatiaia 3,5 L 127V",
-          "preco": "R$ 181,75",
-          "link": "https://s.shopee.com.br/114Lt89jeB"
-        },
-        {
-          "nome": "Manta sofá gigante",
-          "preco": "R$ 59,99",
-          "link": "https://s.shopee.com.br/4LKnrHrlkX"
-        }
-      ]
     }
   ]
 }

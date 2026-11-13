@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Faqueiro Tramontina Búzios em aço inox com detalhe, 24 peças",
+      "preco": "R$ 68,34",
+      "link": "https://meli.la/2Z9bayF",
+      "conferido": "13/11 11:17",
+      "ano": 2026,
+      "categoria": "cozinha",
+      "id": "faqueiro-tramontina-buzios-24-pecas",
+      "foto": "img/faqueiro-tramontina-buzios-24-pecas.jpg"
+    },
+    {
       "nome": "Suporte organizador para tampas de panelas e caçarolas, porta-tampas para armário",
       "preco": "R$ 24,50",
       "link": "https://s.shopee.com.br/1LhIfY89wZ",
@@ -358,15 +368,6 @@
       "ano": 2026,
       "id": "kit-10-panos-microfibra-multiuso",
       "foto": "img/kit-10-panos-microfibra-multiuso.jpg"
-    },
-    {
-      "nome": "Mini rodo de pia com esponja absorvente e auto-torção",
-      "preco": "R$ 15,00",
-      "link": "https://s.shopee.com.br/qkwv3JWSg",
-      "conferido": "10/11 00:01",
-      "ano": 2026,
-      "id": "mini-mop-pia-auto-torcao",
-      "foto": "img/mini-mop-pia-auto-torcao.jpg"
     }
   ]
 }

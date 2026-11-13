@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Suporte organizador para tampas de panelas e caçarolas, porta-tampas para armário",
+      "preco": "R$ 24,50",
+      "link": "https://s.shopee.com.br/1LhIfY89wZ",
+      "conferido": "13/11 09:36",
+      "ano": 2026,
+      "categoria": "organizacao",
+      "id": "suporte-organizador-tampas-panela-dunna",
+      "foto": "img/suporte-organizador-tampas-panela-dunna.jpg"
+    },
+    {
       "nome": "Sabonete líquido Chá Branco Coala Essências, frasco com válvula 500 ml",
       "preco": "R$ 18,10",
       "link": "https://s.shopee.com.br/5VWrdBJVHl",
@@ -357,16 +367,6 @@
       "ano": 2026,
       "id": "mini-mop-pia-auto-torcao",
       "foto": "img/mini-mop-pia-auto-torcao.jpg"
-    },
-    {
-      "nome": "Lençol avulso casal queen com elástico 600 fios 100% algodão",
-      "link": "https://meli.la/2CFTToY",
-      "preco": "R$ 46,42",
-      "detalhe": "casal queen, 600 fios, 100% algodão, com elástico",
-      "conferido": "09/11 21:36",
-      "ano": 2026,
-      "id": "lencol-queen-600-fios-elastico",
-      "foto": "img/lencol-queen-600-fios-elastico.jpg"
     }
   ]
 }

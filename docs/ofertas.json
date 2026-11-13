@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Panela de pressão 4,5 L antiaderente, com visor e fechamento interno (cores)",
+      "preco": "R$ 144,99",
+      "link": "https://s.shopee.com.br/1LhIfp1Duu",
+      "conferido": "13/11 20:27",
+      "ano": 2026,
+      "categoria": "cozinha",
+      "id": "panela-pressao-4-5l-visor-antiaderente-mta",
+      "foto": "img/panela-pressao-4-5l-visor-antiaderente-mta.jpg"
+    },
+    {
       "nome": "Tapete vazado antiderrapante para box 100x60 cm Ivalar, cinza",
       "preco": "R$ 39,50",
       "link": "https://meli.la/1Rb3WCU",
@@ -363,16 +373,6 @@
       "detalhe": "3x3m, 300 LEDs, amarelo, 127/220V",
       "id": "cortina-led-3x3m-300-pisca-amarelo",
       "foto": "img/cortina-led-3x3m-300-pisca-amarelo.jpg"
-    },
-    {
-      "nome": "Relógio digital retrô prata LED unissex",
-      "preco": "R$ 14,90",
-      "link": "https://s.shopee.com.br/5fqD2rL8ym",
-      "conferido": "10/11 15:41",
-      "ano": 2026,
-      "detalhe": "valor inicial; muda com a variante",
-      "id": "relogio-digital-retro-prata-timecraft",
-      "foto": "img/relogio-digital-retro-prata-timecraft.jpg"
     }
   ]
 }

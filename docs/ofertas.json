@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Tapete vazado antiderrapante para box 100x60 cm Ivalar, cinza",
+      "preco": "R$ 39,50",
+      "link": "https://meli.la/1Rb3WCU",
+      "conferido": "13/11 19:12",
+      "ano": 2026,
+      "categoria": "banheiro",
+      "id": "tapete-vazado-box-100x60-ivalar",
+      "foto": "img/tapete-vazado-box-100x60-ivalar.jpg"
+    },
+    {
       "nome": "Mop giratório com cabo de 140 cm, balde com centrífuga e cesto em inox, com 2 refis",
       "preco": "a partir de R$ 59,90",
       "link": "https://s.shopee.com.br/9KjaCSYNrc",
@@ -363,15 +373,6 @@
       "detalhe": "valor inicial; muda com a variante",
       "id": "relogio-digital-retro-prata-timecraft",
       "foto": "img/relogio-digital-retro-prata-timecraft.jpg"
-    },
-    {
-      "nome": "Carregador 50 W carregamento rápido USB-C com cabo tipo C",
-      "preco": "R$ 22,99",
-      "link": "https://s.shopee.com.br/80E7p9TrMH",
-      "conferido": "10/11 13:22",
-      "ano": 2026,
-      "id": "carregador-50w-usbc-turbo-xiang",
-      "foto": "img/carregador-50w-usbc-turbo-xiang.jpg"
     }
   ]
 }

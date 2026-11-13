@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Mop giratório com cabo de 140 cm, balde com centrífuga e cesto em inox, com 2 refis",
+      "preco": "a partir de R$ 59,90",
+      "link": "https://s.shopee.com.br/9KjaCSYNrc",
+      "conferido": "13/11 17:39",
+      "ano": 2026,
+      "categoria": "organizacao",
+      "id": "mop-giratorio-cabo-140cm-cesto-inox-bnvt",
+      "foto": "img/mop-giratorio-cabo-140cm-cesto-inox-bnvt.jpg"
+    },
+    {
       "nome": "Suporte de parede para vassoura e rodo em inox, 9 acessórios, sem furar (Artnove)",
       "preco": "R$ 45,24",
       "link": "https://meli.la/2UvPL8K",
@@ -362,15 +372,6 @@
       "ano": 2026,
       "id": "carregador-50w-usbc-turbo-xiang",
       "foto": "img/carregador-50w-usbc-turbo-xiang.jpg"
-    },
-    {
-      "nome": "Forma de gelo com caixa e gaveta (48 cubos, branca)",
-      "preco": "R$ 35,99",
-      "link": "https://s.shopee.com.br/5q9ddNyWvt",
-      "conferido": "10/11 12:49",
-      "ano": 2026,
-      "id": "forma-gelo-gaveta-48",
-      "foto": "img/forma-gelo-gaveta-48.jpg"
     }
   ]
 }

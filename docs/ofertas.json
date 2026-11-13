@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Porta-coador e organizador para filtro de papel 102, 103 e 104, preto",
+      "preco": "R$ 27,90",
+      "link": "https://meli.la/2FUSpdC",
+      "conferido": "13/11 12:38",
+      "ano": 2026,
+      "categoria": "cozinha",
+      "id": "porta-coador-filtro-papel-102-104",
+      "foto": "img/porta-coador-filtro-papel-102-104.jpg"
+    },
+    {
       "nome": "Kit saco a vácuo grande organizador para edredom, cobertor e roupas",
       "preco": "a partir de R$ 16,43",
       "link": "https://s.shopee.com.br/60T8EKFvq8",
@@ -360,15 +370,6 @@
       "ano": 2026,
       "id": "escova-secadora-britania-4em1-bella01",
       "foto": "img/escova-secadora-britania-4em1-bella01.jpg"
-    },
-    {
-      "nome": "Kit 7 organizadores multiuso para gavetas, armários e geladeira",
-      "preco": "R$ 36,85",
-      "link": "https://s.shopee.com.br/2LZl4nacKs",
-      "conferido": "10/11 09:38",
-      "ano": 2026,
-      "id": "kit-7-organizadores-multiuso-acrilico",
-      "foto": "img/kit-7-organizadores-multiuso-acrilico.jpg"
     }
   ]
 }

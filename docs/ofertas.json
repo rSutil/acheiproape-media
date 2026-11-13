@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Kit saco a vácuo grande organizador para edredom, cobertor e roupas",
+      "preco": "a partir de R$ 16,43",
+      "link": "https://s.shopee.com.br/60T8EKFvq8",
+      "conferido": "13/11 12:00",
+      "ano": 2026,
+      "categoria": "organizacao",
+      "id": "kit-saco-vacuo-grande-organizador-panda-max",
+      "foto": "img/kit-saco-vacuo-grande-organizador-panda-max.jpg"
+    },
+    {
       "nome": "Faqueiro Tramontina Búzios em aço inox com detalhe, 24 peças",
       "preco": "R$ 68,34",
       "link": "https://meli.la/2Z9bayF",
@@ -359,15 +369,6 @@
       "ano": 2026,
       "id": "kit-7-organizadores-multiuso-acrilico",
       "foto": "img/kit-7-organizadores-multiuso-acrilico.jpg"
-    },
-    {
-      "nome": "Kit 10 panos de microfibra multiuso (vidro, pia, flanela)",
-      "preco": "R$ 14,90",
-      "link": "https://s.shopee.com.br/3LSGfKC4lL",
-      "conferido": "10/11 08:11",
-      "ano": 2026,
-      "id": "kit-10-panos-microfibra-multiuso",
-      "foto": "img/kit-10-panos-microfibra-multiuso.jpg"
     }
   ]
 }

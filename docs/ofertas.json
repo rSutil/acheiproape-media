@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Mini processador triturador elétrico sem fio, 250 ml",
+      "preco": "R$ 22,99",
+      "link": "https://s.shopee.com.br/20wzSs7BWo",
+      "conferido": "13/11 13:21",
+      "ano": 2026,
+      "categoria": "cozinha",
+      "id": "mini-processador-triturador-sem-fio-250ml",
+      "foto": "img/mini-processador-triturador-sem-fio-250ml.jpg"
+    },
+    {
       "nome": "Porta-coador e organizador para filtro de papel 102, 103 e 104, preto",
       "preco": "R$ 27,90",
       "link": "https://meli.la/2FUSpdC",
@@ -361,15 +371,6 @@
       "detalhe": "valor inicial; muda com a variante",
       "id": "necessaire-personalizada-inicial-gbgift",
       "foto": "img/necessaire-personalizada-inicial-gbgift.jpg"
-    },
-    {
-      "nome": "Escova secadora Britânia 4 em 1 nanocerâmica 1300 W (BELLA01)",
-      "preco": "R$ 99,90",
-      "link": "https://s.shopee.com.br/1qdUTnvj7e",
-      "conferido": "10/11 11:54",
-      "ano": 2026,
-      "id": "escova-secadora-britania-4em1-bella01",
-      "foto": "img/escova-secadora-britania-4em1-bella01.jpg"
     }
   ]
 }

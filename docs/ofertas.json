@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Escumadeira para fritura com pegador, em inox, 28,5 cm",
+      "preco": "R$ 12,90",
+      "link": "https://s.shopee.com.br/4qHCQwSr91",
+      "conferido": "14/11 09:35",
+      "ano": 2026,
+      "categoria": "cozinha",
+      "id": "escumadeira-pegador-inox-28cm-mypanda",
+      "foto": "img/escumadeira-pegador-inox-28cm-mypanda.jpg"
+    },
+    {
       "nome": "Lava-roupas líquido Urca Azul, galão de 3 L",
       "preco": "R$ 19,90",
       "link": "https://s.shopee.com.br/5LDT1q9l2q",
@@ -365,15 +375,6 @@
       "ano": 2026,
       "id": "organizador-maquiagem-espelho-gavetas",
       "foto": "img/organizador-maquiagem-espelho-gavetas.jpg"
-    },
-    {
-      "nome": "Liquidificador Mondial L-99 Turbo 550 W, 3 velocidades",
-      "preco": "R$ 112,99",
-      "link": "https://s.shopee.com.br/7puhcqysaJ",
-      "conferido": "10/11 20:23",
-      "ano": 2026,
-      "id": "liquidificador-mondial-l99-550w",
-      "foto": "img/liquidificador-mondial-l99-550w.jpg"
     }
   ]
 }

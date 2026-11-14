@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Lava-roupas líquido Urca Azul, galão de 3 L",
+      "preco": "R$ 19,90",
+      "link": "https://s.shopee.com.br/5LDT1q9l2q",
+      "conferido": "14/11 08:04",
+      "ano": 2026,
+      "categoria": "organizacao",
+      "id": "lava-roupas-liquido-urca-azul-3l",
+      "foto": "img/lava-roupas-liquido-urca-azul-3l.jpg"
+    },
+    {
       "nome": "Manta cobertor de microfibra casal queen Habitat, toque macio",
       "preco": "a partir de R$ 54,90",
       "link": "https://s.shopee.com.br/1gK94H8Wzr",
@@ -364,15 +374,6 @@
       "ano": 2026,
       "id": "liquidificador-mondial-l99-550w",
       "foto": "img/liquidificador-mondial-l99-550w.jpg"
-    },
-    {
-      "nome": "Tábua de corte dupla face em aço inox 304, antimofo",
-      "preco": "R$ 39,99",
-      "link": "https://s.shopee.com.br/50aWFiLjLK",
-      "conferido": "10/11 19:08",
-      "ano": 2026,
-      "id": "tabua-corte-inox-dupla-face-304",
-      "foto": "img/tabua-corte-inox-dupla-face-304.jpg"
     }
   ]
 }

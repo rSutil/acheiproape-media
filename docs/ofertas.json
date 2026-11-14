@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 2 prateleiras de canto sem furo para shampoo e sabonete, adesivo reforçado",
+      "preco": "R$ 18,78",
+      "link": "https://s.shopee.com.br/9V31zXx5Eo",
+      "conferido": "14/11 17:35",
+      "ano": 2026,
+      "categoria": "banheiro",
+      "id": "kit-2-prateleiras-canto-sem-furo-banheiro",
+      "foto": "img/kit-2-prateleiras-canto-sem-furo-banheiro.jpg"
+    },
+    {
       "nome": "Jogo com 6 copos de vidro canelado de 450 ml",
       "preco": "R$ 37,90",
       "link": "https://s.shopee.com.br/2qW4reDxBb",
@@ -367,15 +377,6 @@
       "ano": 2026,
       "id": "pote-hermetico-2-5l-copo-medidor",
       "foto": "img/pote-hermetico-2-5l-copo-medidor.jpg"
-    },
-    {
-      "nome": "NIVEA Loção deo-hidratante corporal Milk 200 ml",
-      "preco": "R$ 15,90",
-      "link": "https://s.shopee.com.br/6AmVEYvdTD",
-      "conferido": "11/11 08:05",
-      "ano": 2026,
-      "id": "nivea-locao-milk-200ml",
-      "foto": "img/nivea-locao-milk-200ml.jpg"
     }
   ]
 }

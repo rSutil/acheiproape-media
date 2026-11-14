@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Jogo com 6 copos de vidro canelado de 450 ml",
+      "preco": "R$ 37,90",
+      "link": "https://s.shopee.com.br/2qW4reDxBb",
+      "conferido": "14/11 11:56",
+      "ano": 2026,
+      "categoria": "cozinha",
+      "id": "jogo-6-copos-vidro-canelado-450ml",
+      "foto": "img/jogo-6-copos-vidro-canelado-450ml.jpg"
+    },
+    {
       "nome": "Escumadeira para fritura com pegador, em inox, 28,5 cm",
       "preco": "R$ 12,90",
       "link": "https://s.shopee.com.br/4qHCQwSr91",
@@ -366,15 +376,6 @@
       "ano": 2026,
       "id": "nivea-locao-milk-200ml",
       "foto": "img/nivea-locao-milk-200ml.jpg"
-    },
-    {
-      "nome": "Organizador de maquiagem com espelho e gavetas, compacto",
-      "preco": "R$ 45,90",
-      "link": "https://s.shopee.com.br/1BqIVjV4S",
-      "conferido": "10/11 21:33",
-      "ano": 2026,
-      "id": "organizador-maquiagem-espelho-gavetas",
-      "foto": "img/organizador-maquiagem-espelho-gavetas.jpg"
     }
   ]
 }

@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Espelho orgânico lapidado 70 x 30 cm (modelo E05), decorativo",
+      "preco": "R$ 56,42",
+      "link": "https://meli.la/2Hd148b",
+      "conferido": "14/11 19:11",
+      "ano": 2026,
+      "categoria": "decor",
+      "id": "espelho-organico-lapidado-70x30-vmex",
+      "foto": "img/espelho-organico-lapidado-70x30-vmex.jpg"
+    },
+    {
       "nome": "Kit 2 prateleiras de canto sem furo para shampoo e sabonete, adesivo reforçado",
       "preco": "R$ 18,78",
       "link": "https://s.shopee.com.br/9V31zXx5Eo",
@@ -368,15 +378,6 @@
       "ano": 2026,
       "id": "chaleira-eletrica-inox-1-8l-invention",
       "foto": "img/chaleira-eletrica-inox-1-8l-invention.jpg"
-    },
-    {
-      "nome": "Pote hermético 2,5 L com copo medidor e bico dosador",
-      "preco": "a partir de R$ 16,99",
-      "link": "https://s.shopee.com.br/8VAQ0vTGv7",
-      "conferido": "11/11 09:33",
-      "ano": 2026,
-      "id": "pote-hermetico-2-5l-copo-medidor",
-      "foto": "img/pote-hermetico-2-5l-copo-medidor.jpg"
     }
   ]
 }

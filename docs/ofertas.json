@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Manta cobertor de microfibra casal queen Habitat, toque macio",
+      "preco": "a partir de R$ 54,90",
+      "link": "https://s.shopee.com.br/1gK94H8Wzr",
+      "conferido": "13/11 21:39",
+      "ano": 2026,
+      "categoria": "decor",
+      "id": "manta-cobertor-microfibra-casal-queen-habitat",
+      "foto": "img/manta-cobertor-microfibra-casal-queen-habitat.jpg"
+    },
+    {
       "nome": "Panela de pressão 4,5 L antiaderente, com visor e fechamento interno (cores)",
       "preco": "R$ 144,99",
       "link": "https://s.shopee.com.br/1LhIfp1Duu",
@@ -363,16 +373,6 @@
       "ano": 2026,
       "id": "difusor-varetas-coala-100ml",
       "foto": "img/difusor-varetas-coala-100ml.jpg"
-    },
-    {
-      "nome": "Cortina de LED 3x3m 300 luzes pisca-pisca, amarelo, bivolt",
-      "preco": "R$ 37,91",
-      "link": "https://meli.la/21Tmde1",
-      "conferido": "10/11 16:39",
-      "ano": 2026,
-      "detalhe": "3x3m, 300 LEDs, amarelo, 127/220V",
-      "id": "cortina-led-3x3m-300-pisca-amarelo",
-      "foto": "img/cortina-led-3x3m-300-pisca-amarelo.jpg"
     }
   ]
 }

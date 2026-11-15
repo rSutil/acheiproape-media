@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Mancebo cabideiro de chão com 12 ganchos, para casaco e chapéu",
+      "preco": "a partir de R$ 39,90",
+      "link": "https://s.shopee.com.br/2gCjRRTyXj",
+      "conferido": "15/11 11:54",
+      "ano": 2026,
+      "categoria": "organizacao",
+      "id": "mancebo-cabideiro-chao-12-ganchos-naweb",
+      "foto": "img/mancebo-cabideiro-chao-12-ganchos-naweb.jpg"
+    },
+    {
       "nome": "Tapete escorredor de louça em silicone antiderrapante, 40 x 30 cm, preto",
       "preco": "R$ 22,99",
       "link": "https://meli.la/1UP1UHS",
@@ -372,15 +382,6 @@
       "ano": 2026,
       "id": "lampada-led-caixa-som-bluetooth-rgb",
       "foto": "img/lampada-led-caixa-som-bluetooth-rgb.jpg"
-    },
-    {
-      "nome": "Mouse sem fio dual band (2,4 GHz e Bluetooth), recarregável, MS-S350L",
-      "preco": "a partir de R$ 16,09",
-      "link": "https://s.shopee.com.br/8AXZc1owUB",
-      "conferido": "11/11 13:19",
-      "ano": 2026,
-      "id": "mouse-sem-fio-dual-band-ms-s350l",
-      "foto": "img/mouse-sem-fio-dual-band-ms-s350l.jpg"
     }
   ]
 }

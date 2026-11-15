@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Tapete escorredor de louça em silicone antiderrapante, 40 x 30 cm, preto",
+      "preco": "R$ 22,99",
+      "link": "https://meli.la/1UP1UHS",
+      "conferido": "15/11 09:39",
+      "ano": 2026,
+      "categoria": "cozinha",
+      "id": "tapete-escorredor-louca-silicone-40x30-preto",
+      "foto": "img/tapete-escorredor-louca-silicone-40x30-preto.jpg"
+    },
+    {
       "nome": "Limpa box e vidro de banheiro 500 ml, para mancha e calcário",
       "preco": "R$ 18,98",
       "link": "https://s.shopee.com.br/114VSFzYB3",
@@ -371,15 +381,6 @@
       "ano": 2026,
       "id": "mouse-sem-fio-dual-band-ms-s350l",
       "foto": "img/mouse-sem-fio-dual-band-ms-s350l.jpg"
-    },
-    {
-      "nome": "Presilha piranha garra coreana oval, estilo tartaruga, cores opacas",
-      "preco": "a partir de R$ 11,99",
-      "link": "https://s.shopee.com.br/1qdW4XvkIu",
-      "conferido": "11/11 12:38",
-      "ano": 2026,
-      "id": "piranha-garra-coreana-oval-difinity",
-      "foto": "img/piranha-garra-coreana-oval-difinity.jpg"
     }
   ]
 }

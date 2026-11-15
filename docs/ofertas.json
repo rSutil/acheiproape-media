@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Kit colcha cobre-leito casal dupla face, 3 peças (colcha e 2 porta-travesseiros)",
+      "link": "https://s.shopee.com.br/70LfQ4JIAi",
+      "preco": "R$ 69,90",
+      "conferido": "15/11 20:27",
+      "ano": 2026,
+      "categoria": "decor",
+      "id": "colcha-cobre-leito-casal-3-pecas-casadolar",
+      "foto": "img/colcha-cobre-leito-casal-3-pecas-casadolar.jpg"
+    },
+    {
       "nome": "Porta-pão cristal com tampa articulada, para pão, bolo e frios",
       "link": "https://s.shopee.com.br/906mz2FsLE",
       "preco": "R$ 42,99",
@@ -376,15 +386,6 @@
       "ano": 2026,
       "id": "hidratante-facial-principia-ch01-50g",
       "foto": "img/hidratante-facial-principia-ch01-50g.jpg"
-    },
-    {
-      "nome": "Sanduicheira elétrica Cadence Click inox",
-      "preco": "R$ 94,90",
-      "link": "https://s.shopee.com.br/9fMNOvamfY",
-      "conferido": "11/11 20:20",
-      "ano": 2026,
-      "id": "sanduicheira-cadence-click-inox",
-      "foto": "img/sanduicheira-cadence-click-inox.jpg"
     }
   ]
 }

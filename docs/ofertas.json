@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Jiboia artificial de 90 cm, vaso espelho, decoração moderna mesclada",
+      "link": "https://meli.la/2JhF22t",
+      "preco": "R$ 32,00",
+      "conferido": "15/11 15:42",
+      "ano": 2026,
+      "categoria": "decor",
+      "id": "jiboia-artificial-90cm-mesclada",
+      "foto": "img/jiboia-artificial-90cm-mesclada.jpg"
+    },
+    {
       "nome": "Mancebo cabideiro de chão com 12 ganchos, para casaco e chapéu",
       "preco": "a partir de R$ 39,90",
       "link": "https://s.shopee.com.br/2gCjRRTyXj",
@@ -373,15 +383,6 @@
       "ano": 2026,
       "id": "suporte-papel-higienico-parede-sem-furar",
       "foto": "img/suporte-papel-higienico-parede-sem-furar.jpg"
-    },
-    {
-      "nome": "Lâmpada LED RGB 12 W com caixa de som Bluetooth e controle",
-      "preco": "R$ 19,99",
-      "link": "https://s.shopee.com.br/80E9PtBw6p",
-      "conferido": "11/11 15:39",
-      "ano": 2026,
-      "id": "lampada-led-caixa-som-bluetooth-rgb",
-      "foto": "img/lampada-led-caixa-som-bluetooth-rgb.jpg"
     }
   ]
 }

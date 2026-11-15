@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Porta-pão cristal com tampa articulada, para pão, bolo e frios",
+      "link": "https://s.shopee.com.br/906mz2FsLE",
+      "preco": "R$ 42,99",
+      "conferido": "15/11 19:16",
+      "ano": 2026,
+      "categoria": "cozinha",
+      "id": "porta-pao-cristal-tampa-articulada",
+      "foto": "img/porta-pao-cristal-tampa-articulada.jpg"
+    },
+    {
       "nome": "Papel higiênico folha dupla Deluxe Cotton, pacote com 12 rolos",
       "link": "https://s.shopee.com.br/906myzck4p",
       "preco": "R$ 20,99",
@@ -375,15 +385,6 @@
       "ano": 2026,
       "id": "sanduicheira-cadence-click-inox",
       "foto": "img/sanduicheira-cadence-click-inox.jpg"
-    },
-    {
-      "nome": "Kit 3 vasos decorativos pretos em espiral para sala e estante",
-      "preco": "R$ 29,90",
-      "link": "https://s.shopee.com.br/3qOaSMkZ5r",
-      "conferido": "11/11 19:11",
-      "ano": 2026,
-      "id": "vasos-decorativos-espiral-kit3-preto",
-      "foto": "img/vasos-decorativos-espiral-kit3-preto.jpg"
     }
   ]
 }

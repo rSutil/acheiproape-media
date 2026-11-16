@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 10 potes de 500 ml com tampa, para marmita, micro-ondas e lava-louças",
+      "link": "https://meli.la/2UJkqzr",
+      "preco": "R$ 23,90",
+      "conferido": "16/11 11:49",
+      "ano": 2026,
+      "categoria": "cozinha",
+      "id": "kit-10-potes-500ml-marmita-ponte-lar",
+      "foto": "img/kit-10-potes-500ml-marmita-ponte-lar.jpg"
+    },
+    {
       "nome": "Kit de cabides de veludo slim antideslizantes, com gancho giratório 360°",
       "preco": "a partir de R$ 19,96",
       "link": "https://s.shopee.com.br/7VI0nJnFwn",
@@ -379,15 +389,6 @@
       "ano": 2026,
       "id": "kit-5-porta-esponja-inox-304-adesivo",
       "foto": "img/kit-5-porta-esponja-inox-304-adesivo.jpg"
-    },
-    {
-      "nome": "Creme desodorante antitranspirante Herbíssimo Care Rosa Mosqueta e Niacinamida, bisnaga 55 g",
-      "preco": "R$ 11,12",
-      "link": "https://s.shopee.com.br/3g5BqiUsml",
-      "conferido": "12/11 08:02",
-      "ano": 2026,
-      "id": "creme-desodorante-herbissimo-rosa-mosqueta-55g",
-      "foto": "img/creme-desodorante-herbissimo-rosa-mosqueta-55g.jpg"
     }
   ]
 }

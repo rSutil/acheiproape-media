@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Kit de cabides de veludo slim antideslizantes, com gancho giratório 360°",
+      "preco": "a partir de R$ 19,96",
+      "link": "https://s.shopee.com.br/7VI0nJnFwn",
+      "conferido": "16/11 09:38",
+      "ano": 2026,
+      "categoria": "organizacao",
+      "id": "kit-cabides-veludo-slim-360-jatobraz",
+      "foto": "img/kit-cabides-veludo-slim-360-jatobraz.jpg"
+    },
+    {
       "nome": "Vela aromática artesanal com tampa de madeira, 100 g ou 200 g",
       "preco": "a partir de R$ 19,90",
       "link": "https://s.shopee.com.br/114Qg6ydwA",
@@ -378,15 +388,6 @@
       "ano": 2026,
       "id": "creme-desodorante-herbissimo-rosa-mosqueta-55g",
       "foto": "img/creme-desodorante-herbissimo-rosa-mosqueta-55g.jpg"
-    },
-    {
-      "nome": "Baby doll short doll americano gola V liso, pijama feminino",
-      "preco": "a partir de R$ 27,99",
-      "link": "https://s.shopee.com.br/9AQ6nvaeSO",
-      "conferido": "11/11 21:33",
-      "ano": 2026,
-      "id": "baby-doll-americano-gola-v-dream-magic",
-      "foto": "img/baby-doll-americano-gola-v-dream-magic.jpg"
     }
   ]
 }

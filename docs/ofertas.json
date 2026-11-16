@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Galheteiro spray 2 em 1 para azeite e óleo, porta-azeite de vidro 470 ml (borrifa ou dosa)",
+      "preco": "a partir de R$ 20,00",
+      "link": "https://s.shopee.com.br/BVQ3xgjQ6",
+      "conferido": "16/11 19:10",
+      "ano": 2026,
+      "categoria": "cozinha",
+      "id": "galheteiro-spray-azeite-2em1-vidro-470ml-tmz",
+      "foto": "img/galheteiro-spray-azeite-2em1-vidro-470ml-tmz.jpg"
+    },
+    {
       "nome": "Kit de prendedores de roupa de plástico gigantes e reforçados (60 a 240 unidades)",
       "preco": "a partir de R$ 18,99",
       "link": "https://s.shopee.com.br/2LZudtrII7",
@@ -381,15 +391,6 @@
       "ano": 2026,
       "id": "colar-letra-inicial-perolas-banhado-ouro-lauret",
       "foto": "img/colar-letra-inicial-perolas-banhado-ouro-lauret.jpg"
-    },
-    {
-      "nome": "Frigideira panquequeira antiaderente 22 cm Nacional",
-      "preco": "R$ 26,97",
-      "link": "https://s.shopee.com.br/60T6d4paub",
-      "conferido": "12/11 11:54",
-      "ano": 2026,
-      "id": "frigideira-panquequeira-antiaderente-22cm-nacional",
-      "foto": "img/frigideira-panquequeira-antiaderente-22cm-nacional.jpg"
     }
   ]
 }

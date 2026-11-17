@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 2 quadros decorativos 18 x 18 cm, flores menta, para banheiro, lavabo ou quarto",
+      "link": "https://meli.la/1Twx24p",
+      "preco": "R$ 44,90",
+      "conferido": "16/11 21:35",
+      "ano": 2026,
+      "categoria": "decor",
+      "id": "kit-2-quadros-18x18-flores-menta-smartdeco",
+      "foto": "img/kit-2-quadros-18x18-flores-menta-smartdeco.jpg"
+    },
+    {
       "nome": "Galheteiro spray 2 em 1 para azeite e óleo, porta-azeite de vidro 470 ml (borrifa ou dosa)",
       "preco": "a partir de R$ 20,00",
       "link": "https://s.shopee.com.br/BVQ3xgjQ6",
@@ -382,15 +392,6 @@
       "ano": 2026,
       "id": "oculos-sol-feminino-oval-retro-tartaruga-conido",
       "foto": "img/oculos-sol-feminino-oval-retro-tartaruga-conido.jpg"
-    },
-    {
-      "nome": "Colar com letra inicial e pérolas, banhado a ouro 18K",
-      "preco": "R$ 24,90",
-      "link": "https://s.shopee.com.br/4B1SRjrMl4",
-      "conferido": "12/11 12:35",
-      "ano": 2026,
-      "id": "colar-letra-inicial-perolas-banhado-ouro-lauret",
-      "foto": "img/colar-letra-inicial-perolas-banhado-ouro-lauret.jpg"
     }
   ]
 }

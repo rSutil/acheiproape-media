@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Frigideira de cerâmica antiaderente 24 cm com espátula, para gás e indução",
+      "link": "https://meli.la/1ovcrKV",
+      "preco": "R$ 48,49",
+      "conferido": "17/11 19:13",
+      "ano": 2026,
+      "categoria": "cozinha",
+      "id": "frigideira-ceramica-24cm-espatula-gbm",
+      "foto": "img/frigideira-ceramica-24cm-espatula-gbm.jpg"
+    },
+    {
       "nome": "Kit 6 panos de chão de microfibra gigantes, 80 x 60 cm",
       "link": "https://meli.la/12PY7kr",
       "preco": "R$ 39,84",
@@ -385,15 +395,6 @@
       "ano": 2026,
       "id": "assadeira-inox-com-tampa-yiwei",
       "foto": "img/assadeira-inox-com-tampa-yiwei.jpg"
-    },
-    {
-      "nome": "Cesto de roupa grande dobrável 40x70 / 30x50 cm",
-      "preco": "a partir de R$ 14,99",
-      "link": "https://s.shopee.com.br/ql0TfKNFz",
-      "conferido": "12/11 17:34",
-      "ano": 2026,
-      "id": "cesto-roupa-dobravel-40x70-maxmo",
-      "foto": "img/cesto-roupa-dobravel-40x70-maxmo.jpg"
     }
   ]
 }

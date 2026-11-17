@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Tábua de corte de vidro 25 x 37 cm, fácil de limpar e sem cheiro",
+      "link": "https://meli.la/1jmpEro",
+      "preco": "R$ 30,67",
+      "conferido": "17/11 11:53",
+      "ano": 2026,
+      "categoria": "cozinha",
+      "id": "tabua-corte-vidro-25x37-temper-dd",
+      "foto": "img/tabua-corte-vidro-25x37-temper-dd.jpg"
+    },
+    {
       "nome": "Saboneteira de 2 camadas com escorredor, para banheiro",
       "preco": "a partir de R$ 14,90",
       "link": "https://s.shopee.com.br/BVReIqqjS",
@@ -384,15 +394,6 @@
       "categoria": "cozinha",
       "id": "isqueiro-eletrico-usb-recarregavel-yl",
       "foto": "img/isqueiro-eletrico-usb-recarregavel-yl.jpg"
-    },
-    {
-      "nome": "Bateria externa portátil 5000/10000 mAh com cabo de carregamento incluso",
-      "preco": "a partir de R$ 36,90",
-      "link": "https://s.shopee.com.br/9fMP0BF96o",
-      "conferido": "12/11 13:19",
-      "ano": 2026,
-      "id": "bateria-externa-5000-10000mah-ibuki",
-      "foto": "img/bateria-externa-5000-10000mah-ibuki.jpg"
     }
   ]
 }

@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Saboneteira de 2 camadas com escorredor, para banheiro",
+      "preco": "a partir de R$ 14,90",
+      "link": "https://s.shopee.com.br/BVReIqqjS",
+      "conferido": "17/11 09:40",
+      "ano": 2026,
+      "categoria": "banheiro",
+      "id": "saboneteira-2-camadas-escorredor-mflower",
+      "foto": "img/saboneteira-2-camadas-escorredor-mflower.jpg"
+    },
+    {
       "nome": "Kit 2 quadros decorativos 18 x 18 cm, flores menta, para banheiro, lavabo ou quarto",
       "link": "https://meli.la/1Twx24p",
       "preco": "R$ 44,90",
@@ -383,15 +393,6 @@
       "ano": 2026,
       "id": "bateria-externa-5000-10000mah-ibuki",
       "foto": "img/bateria-externa-5000-10000mah-ibuki.jpg"
-    },
-    {
-      "nome": "Óculos de sol feminino oval retrô, padrão tartaruga",
-      "preco": "a partir de R$ 16,99",
-      "link": "https://s.shopee.com.br/5AtzdsxYGx",
-      "conferido": "12/11 12:35",
-      "ano": 2026,
-      "id": "oculos-sol-feminino-oval-retro-tartaruga-conido",
-      "foto": "img/oculos-sol-feminino-oval-retro-tartaruga-conido.jpg"
     }
   ]
 }

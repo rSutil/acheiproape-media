@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 6 panos de chão de microfibra gigantes, 80 x 60 cm",
+      "link": "https://meli.la/12PY7kr",
+      "preco": "R$ 39,84",
+      "conferido": "17/11 17:45",
+      "ano": 2026,
+      "categoria": "organizacao",
+      "id": "kit-6-panos-chao-microfibra-80x60-ptblstore",
+      "foto": "img/kit-6-panos-chao-microfibra-80x60-ptblstore.jpg"
+    },
+    {
       "nome": "Tábua de corte de vidro 25 x 37 cm, fácil de limpar e sem cheiro",
       "link": "https://meli.la/1jmpEro",
       "preco": "R$ 30,67",
@@ -384,16 +394,6 @@
       "ano": 2026,
       "id": "cesto-roupa-dobravel-40x70-maxmo",
       "foto": "img/cesto-roupa-dobravel-40x70-maxmo.jpg"
-    },
-    {
-      "nome": "Isqueiro elétrico USB recarregável, acendedor sem chama para fogão, churrasqueira e velas",
-      "preco": "a partir de R$ 13,98",
-      "link": "https://s.shopee.com.br/gRaHhq7ll",
-      "conferido": "12/11 15:38",
-      "ano": 2026,
-      "categoria": "cozinha",
-      "id": "isqueiro-eletrico-usb-recarregavel-yl",
-      "foto": "img/isqueiro-eletrico-usb-recarregavel-yl.jpg"
     }
   ]
 }

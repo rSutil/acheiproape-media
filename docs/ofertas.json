@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 4 capas de almofada 40 x 40 cm em suede, com zíper invisível",
+      "preco": "a partir de R$ 31,99",
+      "link": "https://s.shopee.com.br/6L63PLDzJU",
+      "conferido": "17/11 21:40",
+      "ano": 2026,
+      "categoria": "decor",
+      "id": "kit-4-capas-almofada-suede-40x40-visio",
+      "foto": "img/kit-4-capas-almofada-suede-40x40-visio.jpg"
+    },
+    {
       "nome": "Frigideira de cerâmica antiaderente 24 cm com espátula, para gás e indução",
       "link": "https://meli.la/1ovcrKV",
       "preco": "R$ 48,49",
@@ -386,15 +396,6 @@
       "ano": 2026,
       "id": "lixeira-automatica-16l-sensor-usb-nm",
       "foto": "img/lixeira-automatica-16l-sensor-usb-nm.jpg"
-    },
-    {
-      "nome": "Assadeira de aço inoxidável com tampa, resistente a altas temperaturas",
-      "preco": "R$ 45,90",
-      "link": "https://s.shopee.com.br/70Ldp34cjY",
-      "conferido": "12/11 19:03",
-      "ano": 2026,
-      "id": "assadeira-inox-com-tampa-yiwei",
-      "foto": "img/assadeira-inox-com-tampa-yiwei.jpg"
     }
   ]
 }

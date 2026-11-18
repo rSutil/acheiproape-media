@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Bandeja organizadora de facas para gaveta, 18 espaços, antiderrapante",
+      "link": "https://meli.la/2Wz1v7j",
+      "preco": "R$ 24,99",
+      "conferido": "18/11 09:37",
+      "ano": 2026,
+      "categoria": "organizacao",
+      "id": "bandeja-organizadora-facas-gaveta-18-espacos",
+      "foto": "img/bandeja-organizadora-facas-gaveta-18-espacos.jpg"
+    },
+    {
       "nome": "Kit 4 capas de almofada 40 x 40 cm em suede, com zíper invisível",
       "preco": "a partir de R$ 31,99",
       "link": "https://s.shopee.com.br/6L63PLDzJU",
@@ -387,15 +397,6 @@
       "categoria": "organizacao",
       "id": "ferro-passar-vapor-seco-electrolux",
       "foto": "img/ferro-passar-vapor-seco-electrolux.jpg"
-    },
-    {
-      "nome": "Lixeira automática 16 L com sensor, recarregável por USB",
-      "preco": "R$ 78,40",
-      "link": "https://s.shopee.com.br/8VARbkHe9b",
-      "conferido": "12/11 19:05",
-      "ano": 2026,
-      "id": "lixeira-automatica-16l-sensor-usb-nm",
-      "foto": "img/lixeira-automatica-16l-sensor-usb-nm.jpg"
     }
   ]
 }

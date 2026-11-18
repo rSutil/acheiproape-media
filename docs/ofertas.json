@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Mop spray Flash Mágico com reservatório, rodo esfregão flat (vermelho)",
+      "link": "https://meli.la/1bzsTiZ",
+      "preco": "R$ 39,90",
+      "conferido": "18/11 17:38",
+      "ano": 2026,
+      "categoria": "organizacao",
+      "id": "mop-spray-flash-magico-flat-vermelho",
+      "foto": "img/mop-spray-flash-magico-flat-vermelho.jpg"
+    },
+    {
       "nome": "Kit 3 organizadores de geladeira com tampa, para vegetais e alimentos (branco)",
       "link": "https://meli.la/2TcdHSW",
       "preco": "R$ 39,00",
@@ -388,15 +398,6 @@
       "ano": 2026,
       "id": "kit-meias-soquete-cano-curto-jamal",
       "foto": "img/kit-meias-soquete-cano-curto-jamal.jpg"
-    },
-    {
-      "nome": "Pantufa de pelúcia unissex antiderrapante, chinelo de quarto",
-      "preco": "a partir de R$ 19,99",
-      "link": "https://s.shopee.com.br/4fxj2pP5cC",
-      "conferido": "12/11 21:34",
-      "ano": 2026,
-      "id": "pantufa-pelucia-unissex-antiderrapante-viabell",
-      "foto": "img/pantufa-pelucia-unissex-antiderrapante-viabell.jpg"
     }
   ]
 }

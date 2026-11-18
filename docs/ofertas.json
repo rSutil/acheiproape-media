@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 3 formas de silicone para air fryer, antiaderentes, vão ao micro-ondas",
+      "link": "https://meli.la/1TwGV25",
+      "preco": "R$ 37,00",
+      "conferido": "18/11 19:10",
+      "ano": 2026,
+      "categoria": "cozinha",
+      "id": "kit-3-formas-silicone-air-fryer-boa-dica",
+      "foto": "img/kit-3-formas-silicone-air-fryer-boa-dica.jpg"
+    },
+    {
       "nome": "Mop spray Flash Mágico com reservatório, rodo esfregão flat (vermelho)",
       "link": "https://meli.la/1bzsTiZ",
       "preco": "R$ 39,90",
@@ -389,15 +399,6 @@
       "categoria": "banheiro",
       "id": "sabonete-liquido-cha-branco-500ml-coala",
       "foto": "img/sabonete-liquido-cha-branco-500ml-coala.jpg"
-    },
-    {
-      "nome": "Kit de meias soquete cano curto unissex (3, 6, 12 ou 18 pares)",
-      "preco": "a partir de R$ 11,99",
-      "link": "https://s.shopee.com.br/9V2ynioY6i",
-      "conferido": "12/11 21:35",
-      "ano": 2026,
-      "id": "kit-meias-soquete-cano-curto-jamal",
-      "foto": "img/kit-meias-soquete-cano-curto-jamal.jpg"
     }
   ]
 }

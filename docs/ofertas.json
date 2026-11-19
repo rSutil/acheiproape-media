@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Porta-papel higiênico de inox com adesivo 3M, sem furar (ViMad, prateado)",
+      "link": "https://meli.la/2NEJgLW",
+      "preco": "R$ 18,39",
+      "conferido": "19/11 09:37",
+      "ano": 2026,
+      "detalhe": "Nota 4,8 com +10 mil vendidos",
+      "categoria": "banheiro",
+      "id": "porta-papel-higienico-inox-adesivo-vimad",
+      "foto": "img/porta-papel-higienico-inox-adesivo-vimad.jpg"
+    },
+    {
       "nome": "Cordão LED fio de fada 8 m, 80 bolinhas, 8 funções, fio transparente (branco quente)",
       "link": "https://meli.la/2buY93S",
       "preco": "R$ 29,82",
@@ -389,16 +400,6 @@
       "categoria": "cozinha",
       "id": "faqueiro-tramontina-buzios-24-pecas",
       "foto": "img/faqueiro-tramontina-buzios-24-pecas.jpg"
-    },
-    {
-      "nome": "Suporte organizador para tampas de panelas e caçarolas, porta-tampas para armário",
-      "preco": "R$ 24,50",
-      "link": "https://s.shopee.com.br/1LhIfY89wZ",
-      "conferido": "13/11 09:36",
-      "ano": 2026,
-      "categoria": "organizacao",
-      "id": "suporte-organizador-tampas-panela-dunna",
-      "foto": "img/suporte-organizador-tampas-panela-dunna.jpg"
     }
   ]
 }

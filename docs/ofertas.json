@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Cordão LED fio de fada 8 m, 80 bolinhas, 8 funções, fio transparente (branco quente)",
+      "link": "https://meli.la/2buY93S",
+      "preco": "R$ 29,82",
+      "conferido": "18/11 21:37",
+      "ano": 2026,
+      "categoria": "decor",
+      "id": "cordao-led-fio-fada-8m-80-bolinhas-branco-quente",
+      "foto": "img/cordao-led-fio-fada-8m-80-bolinhas-branco-quente.jpg"
+    },
+    {
       "nome": "Kit 3 formas de silicone para air fryer, antiaderentes, vão ao micro-ondas",
       "link": "https://meli.la/1TwGV25",
       "preco": "R$ 37,00",
@@ -389,16 +399,6 @@
       "categoria": "organizacao",
       "id": "suporte-organizador-tampas-panela-dunna",
       "foto": "img/suporte-organizador-tampas-panela-dunna.jpg"
-    },
-    {
-      "nome": "Sabonete líquido Chá Branco Coala Essências, frasco com válvula 500 ml",
-      "preco": "R$ 18,10",
-      "link": "https://s.shopee.com.br/5VWrdBJVHl",
-      "conferido": "13/11 08:04",
-      "ano": 2026,
-      "categoria": "banheiro",
-      "id": "sabonete-liquido-cha-branco-500ml-coala",
-      "foto": "img/sabonete-liquido-cha-branco-500ml-coala.jpg"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Porta-temperos giratório com 9 potes de vidro e tampa dosadora",
+      "link": "https://s.shopee.com.br/1qdipB6Zaa",
+      "preco": "R$ 34,99",
+      "conferido": "19/11 11:51",
+      "ano": 2026,
+      "detalhe": "Nota 4,9 com 2,7 mil+ vendidos",
+      "categoria": "cozinha",
+      "id": "porta-temperos-giratorio-9-potes-vidro-sensacional",
+      "foto": "img/porta-temperos-giratorio-9-potes-vidro-sensacional.jpg"
+    },
+    {
       "nome": "Porta-papel higiênico de inox com adesivo 3M, sem furar (ViMad, prateado)",
       "link": "https://meli.la/2NEJgLW",
       "preco": "R$ 18,39",
@@ -390,16 +401,6 @@
       "categoria": "organizacao",
       "id": "kit-saco-vacuo-grande-organizador-panda-max",
       "foto": "img/kit-saco-vacuo-grande-organizador-panda-max.jpg"
-    },
-    {
-      "nome": "Faqueiro Tramontina Búzios em aço inox com detalhe, 24 peças",
-      "preco": "R$ 68,34",
-      "link": "https://meli.la/2Z9bayF",
-      "conferido": "13/11 11:17",
-      "ano": 2026,
-      "categoria": "cozinha",
-      "id": "faqueiro-tramontina-buzios-24-pecas",
-      "foto": "img/faqueiro-tramontina-buzios-24-pecas.jpg"
     }
   ]
 }

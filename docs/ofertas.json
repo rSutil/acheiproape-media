@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Escova sanitária de silicone 2 em 1 com base, para vaso sanitário",
+      "preco": "a partir de R$ 13,99",
+      "link": "https://s.shopee.com.br/BVUq3f4Oe",
+      "conferido": "19/11 17:36",
+      "ano": 2026,
+      "detalhe": "Nota 4,8 com 7,8 mil+ vendidos",
+      "categoria": "organizacao",
+      "id": "escova-sanitaria-silicone-2em1-base-ocasa",
+      "foto": "img/escova-sanitaria-silicone-2em1-base-ocasa.jpg"
+    },
+    {
       "nome": "Porta-temperos giratório com 9 potes de vidro e tampa dosadora",
       "link": "https://s.shopee.com.br/1qdipB6Zaa",
       "preco": "R$ 34,99",
@@ -391,16 +402,6 @@
       "categoria": "cozinha",
       "id": "porta-coador-filtro-papel-102-104",
       "foto": "img/porta-coador-filtro-papel-102-104.jpg"
-    },
-    {
-      "nome": "Kit saco a vácuo grande organizador para edredom, cobertor e roupas",
-      "preco": "a partir de R$ 16,43",
-      "link": "https://s.shopee.com.br/60T8EKFvq8",
-      "conferido": "13/11 12:00",
-      "ano": 2026,
-      "categoria": "organizacao",
-      "id": "kit-saco-vacuo-grande-organizador-panda-max",
-      "foto": "img/kit-saco-vacuo-grande-organizador-panda-max.jpg"
     }
   ]
 }

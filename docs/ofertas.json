@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Garrafa térmica para café 1 L com cabo de madeira",
+      "link": "https://s.shopee.com.br/3VlyP8rX5P",
+      "preco": "R$ 43,99",
+      "conferido": "20/11 11:53",
+      "ano": 2026,
+      "detalhe": "Nota 4,8 com 5,9 mil+ vendidos",
+      "categoria": "cozinha",
+      "id": "garrafa-termica-cabo-madeira-cafe-1l-sellneeds",
+      "foto": "img/garrafa-termica-cabo-madeira-cafe-1l-sellneeds.jpg"
+    },
+    {
       "nome": "Kit duo para pia do banheiro: porta-sabonete líquido e porta-escovas com bandeja coletora",
       "link": "https://s.shopee.com.br/6fj0Arz5U5",
       "preco": "R$ 19,60",
@@ -395,16 +406,6 @@
       "categoria": "banheiro",
       "id": "tapete-vazado-box-100x60-ivalar",
       "foto": "img/tapete-vazado-box-100x60-ivalar.jpg"
-    },
-    {
-      "nome": "Mop giratório com cabo de 140 cm, balde com centrífuga e cesto em inox, com 2 refis",
-      "preco": "a partir de R$ 59,90",
-      "link": "https://s.shopee.com.br/9KjaCSYNrc",
-      "conferido": "13/11 17:39",
-      "ano": 2026,
-      "categoria": "organizacao",
-      "id": "mop-giratorio-cabo-140cm-cesto-inox-bnvt",
-      "foto": "img/mop-giratorio-cabo-140cm-cesto-inox-bnvt.jpg"
     }
   ]
 }

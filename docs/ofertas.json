@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Caixa saco organizador para cobertor e roupa de cama, anti-poeira e umidade",
+      "preco": "a partir de R$ 13,81",
+      "link": "https://s.shopee.com.br/3g5N0WI8g3",
+      "conferido": "19/11 21:38",
+      "ano": 2026,
+      "detalhe": "Nota 4,9 com 8,9 mil+ vendidos",
+      "categoria": "organizacao",
+      "id": "caixa-saco-organizador-cobertor-guarda-roupa-tiko",
+      "foto": "img/caixa-saco-organizador-cobertor-guarda-roupa-tiko.jpg"
+    },
+    {
       "nome": "Jogo de talheres inox 24 peças (faqueiro com garfo, faca e colher)",
       "preco": "a partir de R$ 39,99",
       "link": "https://s.shopee.com.br/6AmhzNAt96",
@@ -393,16 +404,6 @@
       "categoria": "organizacao",
       "id": "suporte-parede-vassoura-rodo-inox-9pecas",
       "foto": "img/suporte-parede-vassoura-rodo-inox-9pecas.jpg"
-    },
-    {
-      "nome": "Mini processador triturador elétrico sem fio, 250 ml",
-      "preco": "R$ 22,99",
-      "link": "https://s.shopee.com.br/20wzSs7BWo",
-      "conferido": "13/11 13:21",
-      "ano": 2026,
-      "categoria": "cozinha",
-      "id": "mini-processador-triturador-sem-fio-250ml",
-      "foto": "img/mini-processador-triturador-sem-fio-250ml.jpg"
     }
   ]
 }

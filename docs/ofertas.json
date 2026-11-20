@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Jogo com 6 pratos rasos de 26 cm, Opaline branco liso",
+      "preco": "R$ 54,90",
+      "link": "https://s.shopee.com.br/2VtPcdg28w",
+      "conferido": "20/11 19:12",
+      "ano": 2026,
+      "detalhe": "Shopee · 2,2 mil+ vendidos · nota 4,7",
+      "categoria": "cozinha",
+      "id": "jogo-6-pratos-rasos-26cm-opaline-branco",
+      "foto": "img/jogo-6-pratos-rasos-26cm-opaline-branco.jpg"
+    },
+    {
       "nome": "Kit lava-azulejo: esfregão com rodo e esponja abrasiva para limpeza pesada de piso",
       "preco": "a partir de R$ 12,90",
       "link": "https://s.shopee.com.br/20x91QpgnV",
@@ -397,16 +408,6 @@
       "categoria": "decor",
       "id": "kit-2-mini-abajur-tomada-led",
       "foto": "img/kit-2-mini-abajur-tomada-led.jpg"
-    },
-    {
-      "nome": "Panela de pressão 4,5 L antiaderente, com visor e fechamento interno (cores)",
-      "preco": "R$ 144,99",
-      "link": "https://s.shopee.com.br/1LhIfp1Duu",
-      "conferido": "13/11 20:27",
-      "ano": 2026,
-      "categoria": "cozinha",
-      "id": "panela-pressao-4-5l-visor-antiaderente-mta",
-      "foto": "img/panela-pressao-4-5l-visor-antiaderente-mta.jpg"
     }
   ]
 }

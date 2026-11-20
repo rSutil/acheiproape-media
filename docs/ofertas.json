@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Kit lava-azulejo: esfregão com rodo e esponja abrasiva para limpeza pesada de piso",
+      "preco": "a partir de R$ 12,90",
+      "link": "https://s.shopee.com.br/20x91QpgnV",
+      "conferido": "20/11 17:39",
+      "ano": 2026,
+      "detalhe": "Shopee · 7,6 mil+ vendidos · nota 4,9",
+      "categoria": "organizacao",
+      "id": "kit-lava-azulejo-esfregao-rodo-abrasivo-casa-utilidades",
+      "foto": "img/kit-lava-azulejo-esfregao-rodo-abrasivo-casa-utilidades.jpg"
+    },
+    {
       "nome": "Garrafa térmica para café 1 L com cabo de madeira",
       "link": "https://s.shopee.com.br/3VlyP8rX5P",
       "preco": "R$ 43,99",
@@ -396,16 +407,6 @@
       "categoria": "cozinha",
       "id": "panela-pressao-4-5l-visor-antiaderente-mta",
       "foto": "img/panela-pressao-4-5l-visor-antiaderente-mta.jpg"
-    },
-    {
-      "nome": "Tapete vazado antiderrapante para box 100x60 cm Ivalar, cinza",
-      "preco": "R$ 39,50",
-      "link": "https://meli.la/1Rb3WCU",
-      "conferido": "13/11 19:12",
-      "ano": 2026,
-      "categoria": "banheiro",
-      "id": "tapete-vazado-box-100x60-ivalar",
-      "foto": "img/tapete-vazado-box-100x60-ivalar.jpg"
     }
   ]
 }

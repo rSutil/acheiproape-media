@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Kit duo para pia do banheiro: porta-sabonete líquido e porta-escovas com bandeja coletora",
+      "link": "https://s.shopee.com.br/6fj0Arz5U5",
+      "preco": "R$ 19,60",
+      "conferido": "20/11 09:44",
+      "ano": 2026,
+      "detalhe": "Nota 5 com 807 vendidos",
+      "categoria": "banheiro",
+      "id": "kit-duo-banheiro-porta-sabonete-escovas-bandeja-basica",
+      "foto": "img/kit-duo-banheiro-porta-sabonete-escovas-bandeja-basica.jpg"
+    },
+    {
       "nome": "Caixa saco organizador para cobertor e roupa de cama, anti-poeira e umidade",
       "preco": "a partir de R$ 13,81",
       "link": "https://s.shopee.com.br/3g5N0WI8g3",
@@ -394,16 +405,6 @@
       "categoria": "organizacao",
       "id": "mop-giratorio-cabo-140cm-cesto-inox-bnvt",
       "foto": "img/mop-giratorio-cabo-140cm-cesto-inox-bnvt.jpg"
-    },
-    {
-      "nome": "Suporte de parede para vassoura e rodo em inox, 9 acessórios, sem furar (Artnove)",
-      "preco": "R$ 45,24",
-      "link": "https://meli.la/2UvPL8K",
-      "conferido": "13/11 15:35",
-      "ano": 2026,
-      "categoria": "organizacao",
-      "id": "suporte-parede-vassoura-rodo-inox-9pecas",
-      "foto": "img/suporte-parede-vassoura-rodo-inox-9pecas.jpg"
     }
   ]
 }

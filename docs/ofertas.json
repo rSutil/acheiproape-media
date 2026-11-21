@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Varal sanfonado de parede 60 cm em alumínio, recolhível (Ordez)",
+      "preco": "R$ 49,90",
+      "link": "https://meli.la/2XLBsu9",
+      "conferido": "21/11 10:08",
+      "ano": 2026,
+      "detalhe": "Mercado Livre · +1000 vendidos · nota 4,7",
+      "categoria": "organizacao",
+      "id": "varal-sanfonado-parede-60cm-aluminio-ordez",
+      "foto": "img/varal-sanfonado-parede-60cm-aluminio-ordez.jpg"
+    },
+    {
       "nome": "Abajur recarregável touch, retrátil, em aço, com LED branco quente ajustável (USB)",
       "preco": "R$ 29,99",
       "link": "https://s.shopee.com.br/2VtRDFW5IG",
@@ -399,16 +410,6 @@
       "categoria": "organizacao",
       "id": "lava-roupas-liquido-urca-azul-3l",
       "foto": "img/lava-roupas-liquido-urca-azul-3l.jpg"
-    },
-    {
-      "nome": "Manta cobertor de microfibra casal queen Habitat, toque macio",
-      "preco": "a partir de R$ 54,90",
-      "link": "https://s.shopee.com.br/1gK94H8Wzr",
-      "conferido": "13/11 21:39",
-      "ano": 2026,
-      "categoria": "decor",
-      "id": "manta-cobertor-microfibra-casal-queen-habitat",
-      "foto": "img/manta-cobertor-microfibra-casal-queen-habitat.jpg"
     }
   ]
 }

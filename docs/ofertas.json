@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Abajur recarregável touch, retrátil, em aço, com LED branco quente ajustável (USB)",
+      "preco": "R$ 29,99",
+      "link": "https://s.shopee.com.br/2VtRDFW5IG",
+      "conferido": "20/11 21:40",
+      "ano": 2026,
+      "detalhe": "Shopee · 4,9 mil+ vendidos · nota 4,8",
+      "categoria": "decor",
+      "id": "abajur-recarregavel-touch-retratil-aco-led-nova-link",
+      "foto": "img/abajur-recarregavel-touch-retratil-aco-led-nova-link.jpg"
+    },
+    {
       "nome": "Jogo com 6 pratos rasos de 26 cm, Opaline branco liso",
       "preco": "R$ 54,90",
       "link": "https://s.shopee.com.br/2VtPcdg28w",
@@ -398,16 +409,6 @@
       "categoria": "decor",
       "id": "manta-cobertor-microfibra-casal-queen-habitat",
       "foto": "img/manta-cobertor-microfibra-casal-queen-habitat.jpg"
-    },
-    {
-      "nome": "Kit 2 mini abajures de tomada, luz noturna de LED, cúpula cristal e estrutura branca",
-      "preco": "R$ 19,00",
-      "link": "https://meli.la/2PmvR3X",
-      "conferido": "13/11 21:39",
-      "ano": 2026,
-      "categoria": "decor",
-      "id": "kit-2-mini-abajur-tomada-led",
-      "foto": "img/kit-2-mini-abajur-tomada-led.jpg"
     }
   ]
 }

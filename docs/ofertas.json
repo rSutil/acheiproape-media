@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Kit porta-mantimentos 9 peças com etiquetas, para arroz, feijão, açúcar, café e sal",
+      "preco": "R$ 37,19",
+      "link": "https://meli.la/2qdJSB2",
+      "conferido": "22/11 11:15",
+      "ano": 2026,
+      "detalhe": "Mercado Livre · +1000 vendidos · nota 4,7",
+      "categoria": "cozinha",
+      "id": "kit-porta-mantimentos-9-pecas-economico-tpw",
+      "foto": "img/kit-porta-mantimentos-9-pecas-economico-tpw.jpg"
+    },
+    {
       "nome": "Cesta suspensa de parede trançada, organizadora e decorativa",
       "preco": "R$ 24,90",
       "link": "https://meli.la/15ytMYB",
@@ -402,16 +413,6 @@
       "categoria": "banheiro",
       "id": "kit-2-prateleiras-canto-sem-furo-banheiro",
       "foto": "img/kit-2-prateleiras-canto-sem-furo-banheiro.jpg"
-    },
-    {
-      "nome": "Jogo com 6 copos de vidro canelado de 450 ml",
-      "preco": "R$ 37,90",
-      "link": "https://s.shopee.com.br/2qW4reDxBb",
-      "conferido": "14/11 11:56",
-      "ano": 2026,
-      "categoria": "cozinha",
-      "id": "jogo-6-copos-vidro-canelado-450ml",
-      "foto": "img/jogo-6-copos-vidro-canelado-450ml.jpg"
     }
   ]
 }

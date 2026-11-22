@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Cortador de legumes 16 em 1 com recipiente coletor: fatiador, ralador, picador e descascador",
+      "preco": "R$ 38,90",
+      "link": "https://meli.la/1brhJGK",
+      "conferido": "22/11 18:40",
+      "ano": 2026,
+      "detalhe": "Mercado Livre · +1000 vendidos · nota 4,7",
+      "categoria": "cozinha",
+      "id": "cortador-legumes-16em1-recipiente-coletor-ml",
+      "foto": "img/cortador-legumes-16em1-recipiente-coletor-ml.jpg"
+    },
+    {
       "nome": "Kit porta-mantimentos 9 peças com etiquetas, para arroz, feijão, açúcar, café e sal",
       "preco": "R$ 37,19",
       "link": "https://meli.la/2qdJSB2",
@@ -403,16 +414,6 @@
       "categoria": "decor",
       "id": "espelho-organico-lapidado-70x30-vmex",
       "foto": "img/espelho-organico-lapidado-70x30-vmex.jpg"
-    },
-    {
-      "nome": "Kit 2 prateleiras de canto sem furo para shampoo e sabonete, adesivo reforçado",
-      "preco": "R$ 18,78",
-      "link": "https://s.shopee.com.br/9V31zXx5Eo",
-      "conferido": "14/11 17:35",
-      "ano": 2026,
-      "categoria": "banheiro",
-      "id": "kit-2-prateleiras-canto-sem-furo-banheiro",
-      "foto": "img/kit-2-prateleiras-canto-sem-furo-banheiro.jpg"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 5 panos de prato de algodão xadrez branco, 70 x 40 cm (Laune Haus)",
+      "preco": "R$ 35,90",
+      "link": "https://meli.la/2WFy7jk",
+      "conferido": "23/11 17:38",
+      "ano": 2026,
+      "detalhe": "Mercado Livre · +10 mil vendidos · nota 4,8",
+      "categoria": "organizacao",
+      "id": "kit-5-panos-prato-algodao-xadrez-laune-haus",
+      "foto": "img/kit-5-panos-prato-algodao-xadrez-laune-haus.jpg"
+    },
+    {
       "nome": "Escorredor de aço inox 28 cm, prateado",
       "preco": "R$ 23,50",
       "link": "https://meli.la/1guqSgn",
@@ -406,16 +417,6 @@
       "categoria": "cozinha",
       "id": "tapete-escorredor-louca-silicone-40x30-preto",
       "foto": "img/tapete-escorredor-louca-silicone-40x30-preto.jpg"
-    },
-    {
-      "nome": "Limpa box e vidro de banheiro 500 ml, para mancha e calcário",
-      "preco": "R$ 18,98",
-      "link": "https://s.shopee.com.br/114VSFzYB3",
-      "conferido": "15/11 08:08",
-      "ano": 2026,
-      "categoria": "banheiro",
-      "id": "limpa-box-vidro-blindex-500ml-vitriny",
-      "foto": "img/limpa-box-vidro-blindex-500ml-vitriny.jpg"
     }
   ]
 }

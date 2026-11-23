@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 3 potes porta-algodão e cotonete de acrílico com tampa, transparentes",
+      "preco": "R$ 29,69",
+      "link": "https://meli.la/2QZvV2r",
+      "conferido": "23/11 09:43",
+      "ano": 2026,
+      "detalhe": "Mercado Livre · +5 mil vendidos · nota 4,8",
+      "categoria": "banheiro",
+      "id": "kit-3-porta-algodao-cotonete-acrilico-banheiro",
+      "foto": "img/kit-3-porta-algodao-cotonete-acrilico-banheiro.jpg"
+    },
+    {
       "nome": "Cortador de legumes 16 em 1 com recipiente coletor: fatiador, ralador, picador e descascador",
       "preco": "R$ 38,90",
       "link": "https://meli.la/1brhJGK",
@@ -404,16 +415,6 @@
       "categoria": "decor",
       "id": "cortina-blackout-pvc-voil-xadrez-novolar",
       "foto": "img/cortina-blackout-pvc-voil-xadrez-novolar.jpg"
-    },
-    {
-      "nome": "Espelho orgânico lapidado 70 x 30 cm (modelo E05), decorativo",
-      "preco": "R$ 56,42",
-      "link": "https://meli.la/2Hd148b",
-      "conferido": "14/11 19:11",
-      "ano": 2026,
-      "categoria": "decor",
-      "id": "espelho-organico-lapidado-70x30-vmex",
-      "foto": "img/espelho-organico-lapidado-70x30-vmex.jpg"
     }
   ]
 }

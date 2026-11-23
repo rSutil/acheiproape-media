@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Ventilador de mesa Mondial VSP-30-B, 30 cm, 6 pás e 3 velocidades",
+      "preco": "R$ 116,91",
+      "link": "https://s.shopee.com.br/W8RcJufC5",
+      "conferido": "23/11 19:13",
+      "ano": 2026,
+      "detalhe": "Shopee · 4,2 mil+ vendidos · nota 4,9",
+      "categoria": "decor",
+      "id": "ventilador-mesa-mondial-vsp-30-b-30cm-dutra",
+      "foto": "img/ventilador-mesa-mondial-vsp-30-b-30cm-dutra.jpg"
+    },
+    {
       "nome": "Kit 5 panos de prato de algodão xadrez branco, 70 x 40 cm (Laune Haus)",
       "preco": "R$ 35,90",
       "link": "https://meli.la/2WFy7jk",
@@ -407,16 +418,6 @@
       "categoria": "organizacao",
       "id": "mancebo-cabideiro-chao-12-ganchos-naweb",
       "foto": "img/mancebo-cabideiro-chao-12-ganchos-naweb.jpg"
-    },
-    {
-      "nome": "Tapete escorredor de louça em silicone antiderrapante, 40 x 30 cm, preto",
-      "preco": "R$ 22,99",
-      "link": "https://meli.la/1UP1UHS",
-      "conferido": "15/11 09:39",
-      "ano": 2026,
-      "categoria": "cozinha",
-      "id": "tapete-escorredor-louca-silicone-40x30-preto",
-      "foto": "img/tapete-escorredor-louca-silicone-40x30-preto.jpg"
     }
   ]
 }

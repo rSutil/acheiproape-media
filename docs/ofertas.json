@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Escorredor de aço inox 28 cm, prateado",
+      "preco": "R$ 23,50",
+      "link": "https://meli.la/1guqSgn",
+      "conferido": "23/11 11:52",
+      "ano": 2026,
+      "detalhe": "Mercado Livre · +1000 vendidos · nota 4,8",
+      "categoria": "cozinha",
+      "id": "escorredor-aco-inox-28cm-grand",
+      "foto": "img/escorredor-aco-inox-28cm-grand.jpg"
+    },
+    {
       "nome": "Kit 3 potes porta-algodão e cotonete de acrílico com tampa, transparentes",
       "preco": "R$ 29,69",
       "link": "https://meli.la/2QZvV2r",
@@ -405,16 +416,6 @@
       "categoria": "banheiro",
       "id": "limpa-box-vidro-blindex-500ml-vitriny",
       "foto": "img/limpa-box-vidro-blindex-500ml-vitriny.jpg"
-    },
-    {
-      "nome": "Cortina blackout de PVC com voil xadrez, 1,40 x 1,70 m ou 2,00 x 1,40 m",
-      "preco": "a partir de R$ 40,18",
-      "link": "https://s.shopee.com.br/BVMsdqxE9",
-      "conferido": "14/11 21:35",
-      "ano": 2026,
-      "categoria": "decor",
-      "id": "cortina-blackout-pvc-voil-xadrez-novolar",
-      "foto": "img/cortina-blackout-pvc-voil-xadrez-novolar.jpg"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 2 tapetes mágicos para banheiro, de alta absorção",
+      "preco": "R$ 26,90",
+      "link": "https://meli.la/1vrFaYh",
+      "conferido": "24/11 09:41",
+      "ano": 2026,
+      "detalhe": "Mercado Livre · +50 mil vendidos · nota 4,7",
+      "categoria": "banheiro",
+      "id": "kit-2-tapetes-magicos-banheiro-antiderrapante-absorvente",
+      "foto": "img/kit-2-tapetes-magicos-banheiro-antiderrapante-absorvente.jpg"
+    },
+    {
       "nome": "Vaso de vidro 23 cm para flores e plantas, transparente",
       "preco": "R$ 39,90",
       "link": "https://meli.la/32GcDgQ",
@@ -409,16 +420,6 @@
       "categoria": "banheiro",
       "id": "papel-higienico-deluxe-cotton-12-rolos",
       "foto": "img/papel-higienico-deluxe-cotton-12-rolos.jpg"
-    },
-    {
-      "nome": "Jiboia artificial de 90 cm, vaso espelho, decoração moderna mesclada",
-      "link": "https://meli.la/2JhF22t",
-      "preco": "R$ 32,00",
-      "conferido": "15/11 15:42",
-      "ano": 2026,
-      "categoria": "decor",
-      "id": "jiboia-artificial-90cm-mesclada",
-      "foto": "img/jiboia-artificial-90cm-mesclada.jpg"
     }
   ]
 }

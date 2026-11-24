@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Porta-talher portátil para marmita com garfo, faca e colher",
+      "preco": "R$ 21,76",
+      "link": "https://meli.la/2tXK4hQ",
+      "conferido": "24/11 11:52",
+      "ano": 2026,
+      "detalhe": "Mercado Livre · +5 mil vendidos · nota 4,6",
+      "categoria": "cozinha",
+      "id": "porta-talher-portatil-marmita-garfo-faca-colher-branden",
+      "foto": "img/porta-talher-portatil-marmita-garfo-faca-colher-branden.jpg"
+    },
+    {
       "nome": "Kit 2 tapetes mágicos para banheiro, de alta absorção",
       "preco": "R$ 26,90",
       "link": "https://meli.la/1vrFaYh",
@@ -410,16 +421,6 @@
       "categoria": "cozinha",
       "id": "porta-pao-cristal-tampa-articulada",
       "foto": "img/porta-pao-cristal-tampa-articulada.jpg"
-    },
-    {
-      "nome": "Papel higiênico folha dupla Deluxe Cotton, pacote com 12 rolos",
-      "link": "https://s.shopee.com.br/906myzck4p",
-      "preco": "R$ 20,99",
-      "conferido": "15/11 17:37",
-      "ano": 2026,
-      "categoria": "banheiro",
-      "id": "papel-higienico-deluxe-cotton-12-rolos",
-      "foto": "img/papel-higienico-deluxe-cotton-12-rolos.jpg"
     }
   ]
 }

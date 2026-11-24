@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Vaso de vidro 23 cm para flores e plantas, transparente",
+      "preco": "R$ 39,90",
+      "link": "https://meli.la/32GcDgQ",
+      "conferido": "23/11 21:43",
+      "ano": 2026,
+      "detalhe": "Mercado Livre · +5 mil vendidos · nota 4,9",
+      "categoria": "decor",
+      "id": "vaso-vidro-23cm-flores-plantas",
+      "foto": "img/vaso-vidro-23cm-flores-plantas.jpg"
+    },
+    {
       "nome": "Ventilador de mesa Mondial VSP-30-B, 30 cm, 6 pás e 3 velocidades",
       "preco": "R$ 116,91",
       "link": "https://s.shopee.com.br/W8RcJufC5",
@@ -408,16 +419,6 @@
       "categoria": "decor",
       "id": "jiboia-artificial-90cm-mesclada",
       "foto": "img/jiboia-artificial-90cm-mesclada.jpg"
-    },
-    {
-      "nome": "Mancebo cabideiro de chão com 12 ganchos, para casaco e chapéu",
-      "preco": "a partir de R$ 39,90",
-      "link": "https://s.shopee.com.br/2gCjRRTyXj",
-      "conferido": "15/11 11:54",
-      "ano": 2026,
-      "categoria": "organizacao",
-      "id": "mancebo-cabideiro-chao-12-ganchos-naweb",
-      "foto": "img/mancebo-cabideiro-chao-12-ganchos-naweb.jpg"
     }
   ]
 }

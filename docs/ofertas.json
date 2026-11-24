@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 10 panos de microfibra 30×30, cores sortidas",
+      "preco": "R$ 26,98",
+      "link": "https://meli.la/1UUFhND",
+      "conferido": "24/11 17:45",
+      "ano": 2026,
+      "detalhe": "Mercado Livre · +5 mil vendidos",
+      "categoria": "organizacao",
+      "id": "kit-10-panos-microfibra-alta-absorcao-multiuso-nao-risca",
+      "foto": "img/kit-10-panos-microfibra-alta-absorcao-multiuso-nao-risca.jpg"
+    },
+    {
       "nome": "Porta-talher portátil para marmita com garfo, faca e colher",
       "preco": "R$ 21,76",
       "link": "https://meli.la/2tXK4hQ",
@@ -411,16 +422,6 @@
       "categoria": "decor",
       "id": "colcha-cobre-leito-casal-3-pecas-casadolar",
       "foto": "img/colcha-cobre-leito-casal-3-pecas-casadolar.jpg"
-    },
-    {
-      "nome": "Porta-pão cristal com tampa articulada, para pão, bolo e frios",
-      "link": "https://s.shopee.com.br/906mz2FsLE",
-      "preco": "R$ 42,99",
-      "conferido": "15/11 19:16",
-      "ano": 2026,
-      "categoria": "cozinha",
-      "id": "porta-pao-cristal-tampa-articulada",
-      "foto": "img/porta-pao-cristal-tampa-articulada.jpg"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 4 utensílios de silicone: concha, colher, escumadeira e espátula, preto",
+      "preco": "R$ 35,90",
+      "link": "https://meli.la/19c3Kps",
+      "conferido": "24/11 19:13",
+      "ano": 2026,
+      "detalhe": "Mercado Livre · +500 vendidos · nota 4,8",
+      "categoria": "cozinha",
+      "id": "kit-4-silicone-concha-colher-escumadeira-espatula-eqline",
+      "foto": "img/kit-4-silicone-concha-colher-escumadeira-espatula-eqline.jpg"
+    },
+    {
       "nome": "Kit 10 panos de microfibra 30×30, cores sortidas",
       "preco": "R$ 26,98",
       "link": "https://meli.la/1UUFhND",
@@ -412,16 +423,6 @@
       "categoria": "decor",
       "id": "vela-aromatica-artesanal-alpha-oriental",
       "foto": "img/vela-aromatica-artesanal-alpha-oriental.jpg"
-    },
-    {
-      "nome": "Kit colcha cobre-leito casal dupla face, 3 peças (colcha e 2 porta-travesseiros)",
-      "link": "https://s.shopee.com.br/70LfQ4JIAi",
-      "preco": "R$ 69,90",
-      "conferido": "15/11 20:27",
-      "ano": 2026,
-      "categoria": "decor",
-      "id": "colcha-cobre-leito-casal-3-pecas-casadolar",
-      "foto": "img/colcha-cobre-leito-casal-3-pecas-casadolar.jpg"
     }
   ]
 }

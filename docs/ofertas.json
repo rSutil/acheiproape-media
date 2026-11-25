@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Ralador grande Tramontina inox para queijo, legumes e frutas",
+      "preco": "R$ 39,43",
+      "link": "https://meli.la/2Pfh14J",
+      "conferido": "25/11 11:48",
+      "ano": 2026,
+      "detalhe": "Mercado Livre · +1.000 vendidos · nota 4,9",
+      "categoria": "cozinha",
+      "id": "ralador-grande-tramontina-inox-utilita",
+      "foto": "img/ralador-grande-tramontina-inox-utilita.jpg"
+    },
+    {
       "nome": "Kit 20 suportes adesivos (gancho) para quadro, sem prego e sem furo",
       "preco": "R$ 19,68",
       "link": "https://meli.la/2jt18ds",
@@ -415,16 +426,6 @@
       "categoria": "organizacao",
       "id": "prendedores-roupa-plastico-gigante-proutil",
       "foto": "img/prendedores-roupa-plastico-gigante-proutil.jpg"
-    },
-    {
-      "nome": "Kit 10 potes de 500 ml com tampa, para marmita, micro-ondas e lava-louças",
-      "link": "https://meli.la/2UJkqzr",
-      "preco": "R$ 23,90",
-      "conferido": "16/11 11:49",
-      "ano": 2026,
-      "categoria": "cozinha",
-      "id": "kit-10-potes-500ml-marmita-ponte-lar",
-      "foto": "img/kit-10-potes-500ml-marmita-ponte-lar.jpg"
     }
   ]
 }

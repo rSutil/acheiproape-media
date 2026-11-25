@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Percarbonato 100% puro tira manchas para roupas brancas e coloridas",
+      "preco": "a partir de R$ 16,49",
+      "link": "https://s.shopee.com.br/7VIF9cn7IQ",
+      "conferido": "25/11 17:44",
+      "ano": 2026,
+      "detalhe": "Shopee · 56.020 vendidos · nota 4,9",
+      "categoria": "organizacao",
+      "id": "percarbonato-sodio-puro-tira-manchas-roupas",
+      "foto": "img/percarbonato-sodio-puro-tira-manchas-roupas.jpg"
+    },
+    {
       "nome": "Ralador grande Tramontina inox para queijo, legumes e frutas",
       "preco": "R$ 39,43",
       "link": "https://meli.la/2Pfh14J",
@@ -416,16 +427,6 @@
       "categoria": "cozinha",
       "id": "galheteiro-spray-azeite-2em1-vidro-470ml-tmz",
       "foto": "img/galheteiro-spray-azeite-2em1-vidro-470ml-tmz.jpg"
-    },
-    {
-      "nome": "Kit de prendedores de roupa de plástico gigantes e reforçados (60 a 240 unidades)",
-      "preco": "a partir de R$ 18,99",
-      "link": "https://s.shopee.com.br/2LZudtrII7",
-      "conferido": "16/11 17:38",
-      "ano": 2026,
-      "categoria": "organizacao",
-      "id": "prendedores-roupa-plastico-gigante-proutil",
-      "foto": "img/prendedores-roupa-plastico-gigante-proutil.jpg"
     }
   ]
 }

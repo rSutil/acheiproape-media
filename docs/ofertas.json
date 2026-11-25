@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 2 luminárias LED bastão recarregáveis com sensor de movimento, marrom-claro",
+      "preco": "R$ 38,90",
+      "link": "https://meli.la/2nYnPtv",
+      "conferido": "24/11 21:45",
+      "ano": 2026,
+      "detalhe": "Mercado Livre · +10 mil vendidos · nota 4,7",
+      "categoria": "decor",
+      "id": "kit-2-luminarias-led-bastao-recarregaveis-sensor-movimento",
+      "foto": "img/kit-2-luminarias-led-bastao-recarregaveis-sensor-movimento.jpg"
+    },
+    {
       "nome": "Kit 4 utensílios de silicone: concha, colher, escumadeira e espátula, preto",
       "preco": "R$ 35,90",
       "link": "https://meli.la/19c3Kps",
@@ -413,16 +424,6 @@
       "categoria": "organizacao",
       "id": "kit-cabides-veludo-slim-360-jatobraz",
       "foto": "img/kit-cabides-veludo-slim-360-jatobraz.jpg"
-    },
-    {
-      "nome": "Vela aromática artesanal com tampa de madeira, 100 g ou 200 g",
-      "preco": "a partir de R$ 19,90",
-      "link": "https://s.shopee.com.br/114Qg6ydwA",
-      "conferido": "15/11 21:38",
-      "ano": 2026,
-      "categoria": "decor",
-      "id": "vela-aromatica-artesanal-alpha-oriental",
-      "foto": "img/vela-aromatica-artesanal-alpha-oriental.jpg"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Grill e sanduicheira Britânia Fama FGR01 com revestimento cerâmico, 750W",
+      "preco": "R$ 49,90",
+      "link": "https://s.shopee.com.br/9fMjjPS7Lk",
+      "conferido": "25/11 19:14",
+      "ano": 2026,
+      "detalhe": "Shopee · 8.640 vendidos · nota 4,9",
+      "categoria": "cozinha",
+      "id": "grill-sanduicheira-britania-fama-fgr01-750w",
+      "foto": "img/grill-sanduicheira-britania-fama-fgr01-750w.jpg"
+    },
+    {
       "nome": "Percarbonato 100% puro tira manchas para roupas brancas e coloridas",
       "preco": "a partir de R$ 16,49",
       "link": "https://s.shopee.com.br/7VIF9cn7IQ",
@@ -417,16 +428,6 @@
       "categoria": "decor",
       "id": "kit-2-quadros-18x18-flores-menta-smartdeco",
       "foto": "img/kit-2-quadros-18x18-flores-menta-smartdeco.jpg"
-    },
-    {
-      "nome": "Galheteiro spray 2 em 1 para azeite e óleo, porta-azeite de vidro 470 ml (borrifa ou dosa)",
-      "preco": "a partir de R$ 20,00",
-      "link": "https://s.shopee.com.br/BVQ3xgjQ6",
-      "conferido": "16/11 19:10",
-      "ano": 2026,
-      "categoria": "cozinha",
-      "id": "galheteiro-spray-azeite-2em1-vidro-470ml-tmz",
-      "foto": "img/galheteiro-spray-azeite-2em1-vidro-470ml-tmz.jpg"
     }
   ]
 }

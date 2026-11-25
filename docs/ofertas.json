@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 20 suportes adesivos (gancho) para quadro, sem prego e sem furo",
+      "preco": "R$ 19,68",
+      "link": "https://meli.la/2jt18ds",
+      "conferido": "25/11 09:41",
+      "ano": 2026,
+      "detalhe": "Mercado Livre · +5 mil vendidos · nota 4,7",
+      "categoria": "organizacao",
+      "id": "kit-20-suportes-adesivos-quadro-sem-furo",
+      "foto": "img/kit-20-suportes-adesivos-quadro-sem-furo.jpg"
+    },
+    {
       "nome": "Kit 2 luminárias LED bastão recarregáveis com sensor de movimento, marrom-claro",
       "preco": "R$ 38,90",
       "link": "https://meli.la/2nYnPtv",
@@ -414,16 +425,6 @@
       "categoria": "cozinha",
       "id": "kit-10-potes-500ml-marmita-ponte-lar",
       "foto": "img/kit-10-potes-500ml-marmita-ponte-lar.jpg"
-    },
-    {
-      "nome": "Kit de cabides de veludo slim antideslizantes, com gancho giratório 360°",
-      "preco": "a partir de R$ 19,96",
-      "link": "https://s.shopee.com.br/7VI0nJnFwn",
-      "conferido": "16/11 09:38",
-      "ano": 2026,
-      "categoria": "organizacao",
-      "id": "kit-cabides-veludo-slim-360-jatobraz",
-      "foto": "img/kit-cabides-veludo-slim-360-jatobraz.jpg"
     }
   ]
 }

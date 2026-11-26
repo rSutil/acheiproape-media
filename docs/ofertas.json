@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Balde dobrável retrátil 10 L de silicone com alça (Powermaid), cinza",
+      "preco": "R$ 31,50",
+      "link": "https://meli.la/1fndsSe",
+      "conferido": "26/11 17:39",
+      "ano": 2026,
+      "detalhe": "Mercado Livre · +5 mil vendidos · nota 4,9",
+      "categoria": "organizacao",
+      "id": "balde-dobravel-retratil-10l-silicone-powermaid",
+      "foto": "img/balde-dobravel-retratil-10l-silicone-powermaid.jpg"
+    },
+    {
       "nome": "Jarra de vidro borossilicato 1,5 L com tampa inox hermética, para água e suco",
       "preco": "R$ 32,66",
       "link": "https://meli.la/1ezXeNF",
@@ -421,16 +432,6 @@
       "categoria": "cozinha",
       "id": "frigideira-ceramica-24cm-espatula-gbm",
       "foto": "img/frigideira-ceramica-24cm-espatula-gbm.jpg"
-    },
-    {
-      "nome": "Kit 6 panos de chão de microfibra gigantes, 80 x 60 cm",
-      "link": "https://meli.la/12PY7kr",
-      "preco": "R$ 39,84",
-      "conferido": "17/11 17:45",
-      "ano": 2026,
-      "categoria": "organizacao",
-      "id": "kit-6-panos-chao-microfibra-80x60-ptblstore",
-      "foto": "img/kit-6-panos-chao-microfibra-80x60-ptblstore.jpg"
     }
   ]
 }

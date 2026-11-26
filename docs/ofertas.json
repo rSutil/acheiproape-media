@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 2 guirlandas de Natal verdes 30 cm com laço",
+      "preco": "R$ 19,16",
+      "link": "https://meli.la/17YS4UQ",
+      "conferido": "25/11 21:36",
+      "ano": 2026,
+      "detalhe": "Mercado Livre · +1.000 vendidos · nota 4,7",
+      "categoria": "decor",
+      "id": "kit-2-guirlandas-natal-verdes-30cm-laco",
+      "foto": "img/kit-2-guirlandas-natal-verdes-30cm-laco.jpg"
+    },
+    {
       "nome": "Grill e sanduicheira Britânia Fama FGR01 com revestimento cerâmico, 750W",
       "preco": "R$ 49,90",
       "link": "https://s.shopee.com.br/9fMjjPS7Lk",
@@ -418,16 +429,6 @@
       "categoria": "banheiro",
       "id": "saboneteira-2-camadas-escorredor-mflower",
       "foto": "img/saboneteira-2-camadas-escorredor-mflower.jpg"
-    },
-    {
-      "nome": "Kit 2 quadros decorativos 18 x 18 cm, flores menta, para banheiro, lavabo ou quarto",
-      "link": "https://meli.la/1Twx24p",
-      "preco": "R$ 44,90",
-      "conferido": "16/11 21:35",
-      "ano": 2026,
-      "categoria": "decor",
-      "id": "kit-2-quadros-18x18-flores-menta-smartdeco",
-      "foto": "img/kit-2-quadros-18x18-flores-menta-smartdeco.jpg"
     }
   ]
 }

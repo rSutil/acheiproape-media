@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Jarra de vidro borossilicato 1,5 L com tampa inox hermética, para água e suco",
+      "preco": "R$ 32,66",
+      "link": "https://meli.la/1ezXeNF",
+      "conferido": "26/11 11:48",
+      "ano": 2026,
+      "detalhe": "Mercado Livre · +10 mil vendidos · nota 4,7",
+      "categoria": "cozinha",
+      "id": "jarra-vidro-borossilicato-1-5l-tampa-inox",
+      "foto": "img/jarra-vidro-borossilicato-1-5l-tampa-inox.jpg"
+    },
+    {
       "nome": "Kit 10 cestos organizadores multiuso para gaveta, retangulares, brancos",
       "preco": "R$ 31,59",
       "link": "https://meli.la/2Vyo8J5",
@@ -420,16 +431,6 @@
       "categoria": "organizacao",
       "id": "kit-6-panos-chao-microfibra-80x60-ptblstore",
       "foto": "img/kit-6-panos-chao-microfibra-80x60-ptblstore.jpg"
-    },
-    {
-      "nome": "Tábua de corte de vidro 25 x 37 cm, fácil de limpar e sem cheiro",
-      "link": "https://meli.la/1jmpEro",
-      "preco": "R$ 30,67",
-      "conferido": "17/11 11:53",
-      "ano": 2026,
-      "categoria": "cozinha",
-      "id": "tabua-corte-vidro-25x37-temper-dd",
-      "foto": "img/tabua-corte-vidro-25x37-temper-dd.jpg"
     }
   ]
 }

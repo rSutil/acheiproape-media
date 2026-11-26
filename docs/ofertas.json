@@ -1,6 +1,17 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 10 cestos organizadores multiuso para gaveta, retangulares, brancos",
+      "preco": "R$ 31,59",
+      "link": "https://meli.la/2Vyo8J5",
+      "conferido": "26/11 09:43",
+      "ano": 2026,
+      "detalhe": "Mercado Livre · +1.000 vendidos · nota 4,8",
+      "categoria": "organizacao",
+      "id": "kit-10-cestos-organizadores-multiuso-gaveta-branco",
+      "foto": "img/kit-10-cestos-organizadores-multiuso-gaveta-branco.jpg"
+    },
+    {
       "nome": "Kit 2 guirlandas de Natal verdes 30 cm com laço",
       "preco": "R$ 19,16",
       "link": "https://meli.la/17YS4UQ",
@@ -419,16 +430,6 @@
       "categoria": "cozinha",
       "id": "tabua-corte-vidro-25x37-temper-dd",
       "foto": "img/tabua-corte-vidro-25x37-temper-dd.jpg"
-    },
-    {
-      "nome": "Saboneteira de 2 camadas com escorredor, para banheiro",
-      "preco": "a partir de R$ 14,90",
-      "link": "https://s.shopee.com.br/BVReIqqjS",
-      "conferido": "17/11 09:40",
-      "ano": 2026,
-      "categoria": "banheiro",
-      "id": "saboneteira-2-camadas-escorredor-mflower",
-      "foto": "img/saboneteira-2-camadas-escorredor-mflower.jpg"
     }
   ]
 }

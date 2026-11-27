@@ -1,6 +1,26 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 2 prateleiras adesivas aramadas de canto para banheiro, sem furo",
+      "link": "https://s.shopee.com.br/7AfQLFafLa",
+      "preco": "R$ 19,98",
+      "conferido": "27/11 09:42",
+      "ano": 2026,
+      "categoria": "banheiro",
+      "id": "kit-2-prateleiras-banheiro-adesivas-aramadas-canto-ding-tudo",
+      "foto": "img/kit-2-prateleiras-banheiro-adesivas-aramadas-canto-ding-tudo.jpg"
+    },
+    {
+      "nome": "Kit 30 bolas de Natal 4 cm, lisas, foscas e com glitter, douradas",
+      "link": "https://meli.la/2kApm5H",
+      "preco": "R$ 26,97",
+      "conferido": "26/11 21:43",
+      "ano": 2026,
+      "categoria": "decor",
+      "id": "kit-30-bolas-natal-4cm-douradas",
+      "foto": "img/kit-30-bolas-natal-4cm-douradas.jpg"
+    },
+    {
       "nome": "Balde dobrável retrátil 10 L de silicone com alça (Powermaid), cinza",
       "preco": "R$ 31,50",
       "link": "https://meli.la/1fndsSe",
@@ -412,26 +432,6 @@
       "categoria": "organizacao",
       "id": "bandeja-organizadora-facas-gaveta-18-espacos",
       "foto": "img/bandeja-organizadora-facas-gaveta-18-espacos.jpg"
-    },
-    {
-      "nome": "Kit 4 capas de almofada 40 x 40 cm em suede, com zíper invisível",
-      "preco": "a partir de R$ 31,99",
-      "link": "https://s.shopee.com.br/6L63PLDzJU",
-      "conferido": "17/11 21:40",
-      "ano": 2026,
-      "categoria": "decor",
-      "id": "kit-4-capas-almofada-suede-40x40-visio",
-      "foto": "img/kit-4-capas-almofada-suede-40x40-visio.jpg"
-    },
-    {
-      "nome": "Frigideira de cerâmica antiaderente 24 cm com espátula, para gás e indução",
-      "link": "https://meli.la/1ovcrKV",
-      "preco": "R$ 48,49",
-      "conferido": "17/11 19:13",
-      "ano": 2026,
-      "categoria": "cozinha",
-      "id": "frigideira-ceramica-24cm-espatula-gbm",
-      "foto": "img/frigideira-ceramica-24cm-espatula-gbm.jpg"
     }
   ]
 }

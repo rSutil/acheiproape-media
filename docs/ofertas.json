@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Kit escova sanitária com refis descartáveis com detergente, cabo e base",
+      "preco": "a partir de R$ 38,90",
+      "link": "https://s.shopee.com.br/60TUYj0pRf",
+      "conferido": "27/11 17:41",
+      "ano": 2026,
+      "categoria": "banheiro",
+      "id": "kit-escova-sanitaria-refis-descartaveis-brilho-novo",
+      "foto": "img/kit-escova-sanitaria-refis-descartaveis-brilho-novo.jpg"
+    },
+    {
       "nome": "Kit 10 potes de 1 L transparentes com tampa hermética, para marmita, micro-ondas e freezer",
       "link": "https://meli.la/2cmgG6s",
       "preco": "R$ 27,45",
@@ -422,16 +432,6 @@
       "categoria": "organizacao",
       "id": "mop-spray-flash-magico-flat-vermelho",
       "foto": "img/mop-spray-flash-magico-flat-vermelho.jpg"
-    },
-    {
-      "nome": "Kit 3 organizadores de geladeira com tampa, para vegetais e alimentos (branco)",
-      "link": "https://meli.la/2TcdHSW",
-      "preco": "R$ 39,00",
-      "conferido": "18/11 11:56",
-      "ano": 2026,
-      "categoria": "cozinha",
-      "id": "kit-3-organizadores-geladeira-tampa-branco",
-      "foto": "img/kit-3-organizadores-geladeira-tampa-branco.jpg"
     }
   ]
 }

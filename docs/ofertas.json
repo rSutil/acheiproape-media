@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 10 potes de 1 L transparentes com tampa hermética, para marmita, micro-ondas e freezer",
+      "link": "https://meli.la/2cmgG6s",
+      "preco": "R$ 27,45",
+      "conferido": "27/11 11:48",
+      "ano": 2026,
+      "categoria": "cozinha",
+      "id": "kit-10-potes-1l-marmita-tampa-hermetica-ponte-lar",
+      "foto": "img/kit-10-potes-1l-marmita-tampa-hermetica-ponte-lar.jpg"
+    },
+    {
       "nome": "Kit 2 prateleiras adesivas aramadas de canto para banheiro, sem furo",
       "link": "https://s.shopee.com.br/7AfQLFafLa",
       "preco": "R$ 19,98",
@@ -422,16 +432,6 @@
       "categoria": "cozinha",
       "id": "kit-3-organizadores-geladeira-tampa-branco",
       "foto": "img/kit-3-organizadores-geladeira-tampa-branco.jpg"
-    },
-    {
-      "nome": "Bandeja organizadora de facas para gaveta, 18 espaços, antiderrapante",
-      "link": "https://meli.la/2Wz1v7j",
-      "preco": "R$ 24,99",
-      "conferido": "18/11 09:37",
-      "ano": 2026,
-      "categoria": "organizacao",
-      "id": "bandeja-organizadora-facas-gaveta-18-espacos",
-      "foto": "img/bandeja-organizadora-facas-gaveta-18-espacos.jpg"
     }
   ]
 }

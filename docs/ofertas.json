@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Aspirador de pó vertical Philco 2 em 1, 1300 W, PAS1450C",
+      "link": "https://s.shopee.com.br/3B9JBLBnQo",
+      "preco": "R$ 129,90",
+      "conferido": "27/11 19:11",
+      "ano": 2026,
+      "categoria": "organizacao",
+      "id": "aspirador-vertical-philco-2em1-1300w-pas1450c",
+      "foto": "img/aspirador-vertical-philco-2em1-1300w-pas1450c.jpg"
+    },
+    {
       "nome": "Kit escova sanitária com refis descartáveis com detergente, cabo e base",
       "preco": "a partir de R$ 38,90",
       "link": "https://s.shopee.com.br/60TUYj0pRf",
@@ -422,16 +432,6 @@
       "categoria": "cozinha",
       "id": "kit-3-formas-silicone-air-fryer-boa-dica",
       "foto": "img/kit-3-formas-silicone-air-fryer-boa-dica.jpg"
-    },
-    {
-      "nome": "Mop spray Flash Mágico com reservatório, rodo esfregão flat (vermelho)",
-      "link": "https://meli.la/1bzsTiZ",
-      "preco": "R$ 39,90",
-      "conferido": "18/11 17:38",
-      "ano": 2026,
-      "categoria": "organizacao",
-      "id": "mop-spray-flash-magico-flat-vermelho",
-      "foto": "img/mop-spray-flash-magico-flat-vermelho.jpg"
     }
   ]
 }

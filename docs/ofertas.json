@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Manta gigante para sofá 2,40 x 1,80 m, decorativa e protetora",
+      "link": "https://meli.la/2kyeygr",
+      "preco": "R$ 37,49",
+      "conferido": "27/11 21:39",
+      "ano": 2026,
+      "categoria": "decor",
+      "id": "manta-sofa-gigante-240x180-vesthouse",
+      "foto": "img/manta-sofa-gigante-240x180-vesthouse.jpg"
+    },
+    {
       "nome": "Aspirador de pó vertical Philco 2 em 1, 1300 W, PAS1450C",
       "link": "https://s.shopee.com.br/3B9JBLBnQo",
       "preco": "R$ 129,90",
@@ -422,16 +432,6 @@
       "categoria": "decor",
       "id": "cordao-led-fio-fada-8m-80-bolinhas-branco-quente",
       "foto": "img/cordao-led-fio-fada-8m-80-bolinhas-branco-quente.jpg"
-    },
-    {
-      "nome": "Kit 3 formas de silicone para air fryer, antiaderentes, vão ao micro-ondas",
-      "link": "https://meli.la/1TwGV25",
-      "preco": "R$ 37,00",
-      "conferido": "18/11 19:10",
-      "ano": 2026,
-      "categoria": "cozinha",
-      "id": "kit-3-formas-silicone-air-fryer-boa-dica",
-      "foto": "img/kit-3-formas-silicone-air-fryer-boa-dica.jpg"
     }
   ]
 }

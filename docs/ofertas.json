@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Kit 3 caixas organizadoras rattan 7 L com tampa (Arqplast), pretas",
+      "link": "https://meli.la/1AYG1iR",
+      "preco": "R$ 33,67",
+      "conferido": "28/11 17:51",
+      "ano": 2026,
+      "categoria": "organizacao",
+      "id": "kit-3-caixas-organizadoras-rattan-7l-tampa-arqplast-preto",
+      "foto": "img/kit-3-caixas-organizadoras-rattan-7l-tampa-arqplast-preto.jpg"
+    },
+    {
       "nome": "Jogo de toalhas 4 peças, 100% algodão, felpudas (New Premier Habitat)",
       "link": "https://s.shopee.com.br/1W16muKA8F",
       "preco": "R$ 74,90",
@@ -421,17 +431,6 @@
       "categoria": "cozinha",
       "id": "porta-temperos-giratorio-9-potes-vidro-sensacional",
       "foto": "img/porta-temperos-giratorio-9-potes-vidro-sensacional.jpg"
-    },
-    {
-      "nome": "Porta-papel higiênico de inox com adesivo 3M, sem furar (ViMad, prateado)",
-      "link": "https://meli.la/2NEJgLW",
-      "preco": "R$ 18,39",
-      "conferido": "19/11 09:37",
-      "ano": 2026,
-      "detalhe": "Nota 4,8 com +10 mil vendidos",
-      "categoria": "banheiro",
-      "id": "porta-papel-higienico-inox-adesivo-vimad",
-      "foto": "img/porta-papel-higienico-inox-adesivo-vimad.jpg"
     }
   ]
 }

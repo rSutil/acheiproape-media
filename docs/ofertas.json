@@ -1,6 +1,16 @@
 {
   "ofertas": [
     {
+      "nome": "Jogo de toalhas 4 peças, 100% algodão, felpudas (New Premier Habitat)",
+      "link": "https://s.shopee.com.br/1W16muKA8F",
+      "preco": "R$ 74,90",
+      "conferido": "28/11 10:24",
+      "ano": 2026,
+      "categoria": "banheiro",
+      "id": "jogo-toalha-banho-4-pecas-algodao-habitat-mg-enxovais",
+      "foto": "img/jogo-toalha-banho-4-pecas-algodao-habitat-mg-enxovais.jpg"
+    },
+    {
       "nome": "Manta gigante para sofá 2,40 x 1,80 m, decorativa e protetora",
       "link": "https://meli.la/2kyeygr",
       "preco": "R$ 37,49",
@@ -422,16 +432,6 @@
       "categoria": "banheiro",
       "id": "porta-papel-higienico-inox-adesivo-vimad",
       "foto": "img/porta-papel-higienico-inox-adesivo-vimad.jpg"
-    },
-    {
-      "nome": "Cordão LED fio de fada 8 m, 80 bolinhas, 8 funções, fio transparente (branco quente)",
-      "link": "https://meli.la/2buY93S",
-      "preco": "R$ 29,82",
-      "conferido": "18/11 21:37",
-      "ano": 2026,
-      "categoria": "decor",
-      "id": "cordao-led-fio-fada-8m-80-bolinhas-branco-quente",
-      "foto": "img/cordao-led-fio-fada-8m-80-bolinhas-branco-quente.jpg"
     }
   ]
 }
